@@ -1,0 +1,164 @@
+{
+  "items": [
+    {
+      "description": "We include useful tools that have an open-source license and are actively maintained in this collection. All tools mentioned are useful for building DCAI workflows on unstructured data (e.g. images, audio, video, time-series, text).\nWe also collect workflow snippets into a data-centric AI playbook that show how typical tasks can be solved with open source tooling.\nIn order to keep a useful focus and to prevent duplicate work, we exclude some topics from this list such as tooling for tabular data, dedicated labeling tools, MLOps tooling as well as research papers. Please check out the further reading section to find awesome lists for these topics.",
+      "items": [],
+      "title": "🔎 Scope"
+    },
+    {
+      "description": "Do you think something is missing? Please help contribute to this list by contacting us or adding a pull request.",
+      "items": [],
+      "title": ":open_hands: Contributing"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Data versioning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Embeddings and pre-trained models"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Visualization and Interaction"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Outlier and noise detection"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Explainability"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Active learning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Uncertainty quantification"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Bias and fairness"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Observability and Monitoring"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Augmentation and synthetic data"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Security and robustness"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Exploratory data analysis (EDA)"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Cleaning"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Annotation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Modeling"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Validation"
+    },
+    {
+      "description": "In order to keep a useful focus and to prevent duplicate work, we excluded some topics from this list. Read more about them here:",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MLOps tooling. We exclude all topics that are clearly out of the DCAI scope and refer to established MLOps awesome lists",
+          "description": "for these tools.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T19:22:45Z",
+            "owner": "EthicalML",
+            "repo": "awesome-production-machine-learning",
+            "stars": 20840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Research papers. We focus on industrial-ready open source tooling, check out this list",
+          "description": "for a research-oriented view on DCAI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TeX",
+            "last_commit": "2023-12-13T09:58:57Z",
+            "owner": "HazyResearch",
+            "repo": "data-centric-ai",
+            "stars": 1147
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Labeling tools. Although labeling is part of the DCAI workflow, we refer to the awesome list",
+          "description": "of the ZenML team on that topic.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-06T19:31:47Z",
+            "owner": "zenml-io",
+            "repo": "awesome-open-data-annotation",
+            "stars": 719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DCAI tools for tabular data. There is an awesome list",
+          "description": "for that maintained by the Ydata team.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-13T11:26:19Z",
+            "owner": "Data-Centric-AI-Community",
+            "repo": "awesome-data-centric-ai",
+            "stars": 353
+          }
+        }
+      ],
+      "title": "Monitoring"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:48:25.299Z",
+    "original_repository": "Renumics/awesome-open-data-centric-ai",
+    "original_repository_sha": "485450706433c12591dac9339f934e28e17cafc3",
+    "enhanced_repository": "enhansome/enhansome-open-data-centric-ai",
+    "enhanced_repository_description": null,
+    "title": "Awesome 🧰 Tooling with stars"
+  }
+}
