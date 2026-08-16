@@ -104,7 +104,7 @@
             "last_commit": "2026-08-12T19:22:45Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20846
+            "stars": 20847
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2026-07-06T19:31:47Z",
             "owner": "zenml-io",
             "repo": "awesome-open-data-annotation",
-            "stars": 722
+            "stars": 723
           }
         },
         {
@@ -154,7 +154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T14:08:40.095Z",
+    "last_updated": "2026-08-16T14:09:30.178Z",
     "original_repository": "Renumics/awesome-open-data-centric-ai",
     "original_repository_sha": "485450706433c12591dac9339f934e28e17cafc3",
     "enhanced_repository": "enhansome/enhansome-open-data-centric-ai",
