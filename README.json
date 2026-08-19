@@ -1,96 +1,6 @@
 {
   "items": [
     {
-      "description": "We include useful tools that have an open-source license and are actively maintained in this collection. All tools mentioned are useful for building DCAI workflows on unstructured data (e.g. images, audio, video, time-series, text).\nWe also collect workflow snippets into a data-centric AI playbook that show how typical tasks can be solved with open source tooling.\nIn order to keep a useful focus and to prevent duplicate work, we exclude some topics from this list such as tooling for tabular data, dedicated labeling tools, MLOps tooling as well as research papers. Please check out the further reading section to find awesome lists for these topics.",
-      "items": [],
-      "title": "🔎 Scope"
-    },
-    {
-      "description": "Do you think something is missing? Please help contribute to this list by contacting us or adding a pull request.",
-      "items": [],
-      "title": ":open_hands: Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Data versioning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Embeddings and pre-trained models"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Visualization and Interaction"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Outlier and noise detection"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Explainability"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Active learning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Uncertainty quantification"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Bias and fairness"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Observability and Monitoring"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Augmentation and synthetic data"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Security and robustness"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Exploratory data analysis (EDA)"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Cleaning"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Annotation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Modeling"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Validation"
-    },
-    {
       "description": "In order to keep a useful focus and to prevent duplicate work, we excluded some topics from this list. Read more about them here:",
       "items": [
         {
@@ -100,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 144863525,
             "language": null,
             "last_commit": "2026-08-12T19:22:45Z",
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20852
+            "stars": 20853
           }
         },
         {
@@ -114,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 376119743,
             "language": "TeX",
             "last_commit": "2023-12-13T09:58:57Z",
             "owner": "HazyResearch",
@@ -128,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 500116286,
             "language": null,
             "last_commit": "2026-07-06T19:31:47Z",
             "owner": "zenml-io",
@@ -142,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 454472302,
             "language": "Jupyter Notebook",
             "last_commit": "2026-07-13T11:26:19Z",
             "owner": "Data-Centric-AI-Community",
@@ -150,12 +64,13 @@
           }
         }
       ],
-      "title": "Monitoring"
+      "title": "📖 Further reading"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T14:18:52.015Z",
+    "last_updated": "2026-08-19T12:43:07.004Z",
     "original_repository": "Renumics/awesome-open-data-centric-ai",
+    "original_repository_id": 607380349,
     "original_repository_sha": "485450706433c12591dac9339f934e28e17cafc3",
     "enhanced_repository": "enhansome/enhansome-open-data-centric-ai",
     "enhanced_repository_description": null,
