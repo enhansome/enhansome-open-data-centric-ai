@@ -231,7 +231,7 @@
             "last_commit": "2026-08-24T14:07:06Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164394
+            "stars": 164393
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-08-24T14:07:06Z",
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164394
+            "stars": 164393
           }
         },
         {
@@ -930,7 +930,7 @@
             "archived": false,
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-24T13:21:52Z",
+            "last_commit": "2026-08-24T14:31:18Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
             "stars": 11168
@@ -945,7 +945,7 @@
             "archived": false,
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-24T13:21:52Z",
+            "last_commit": "2026-08-24T14:31:18Z",
             "owner": "Arize-ai",
             "repo": "phoenix",
             "stars": 11168
@@ -1020,10 +1020,10 @@
             "archived": false,
             "id": 642497346,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:09:42Z",
+            "last_commit": "2026-08-24T14:46:11Z",
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 33629
+            "stars": 33631
           }
         },
         {
@@ -1035,10 +1035,10 @@
             "archived": false,
             "id": 642497346,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:09:42Z",
+            "last_commit": "2026-08-24T14:46:11Z",
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 33629
+            "stars": 33631
           }
         },
         {
@@ -1454,7 +1454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:20:08.412Z",
+    "last_updated": "2026-08-24T14:49:18.469Z",
     "original_repository": "Renumics/awesome-open-data-centric-ai",
     "original_repository_id": 607380349,
     "original_repository_sha": "485450706433c12591dac9339f934e28e17cafc3",
