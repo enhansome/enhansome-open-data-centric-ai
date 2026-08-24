@@ -1,6 +1,1392 @@
 {
   "items": [
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Data version control (DVC)",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83878269,
+            "language": "Python",
+            "last_commit": "2026-08-24T02:03:27Z",
+            "owner": "treeverse",
+            "repo": "dvc",
+            "stars": 15838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dvc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83878269,
+            "language": "Python",
+            "last_commit": "2026-08-24T02:03:27Z",
+            "owner": "treeverse",
+            "repo": "dvc",
+            "stars": 15838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deeplake",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201403923,
+            "language": "C++",
+            "last_commit": "2026-05-21T15:28:00Z",
+            "owner": "activeloopai",
+            "repo": "deeplake",
+            "stars": 9227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deeplake",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201403923,
+            "language": "C++",
+            "last_commit": "2026-05-21T15:28:00Z",
+            "owner": "activeloopai",
+            "repo": "deeplake",
+            "stars": 9227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pachyderm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23653453,
+            "language": "Go",
+            "last_commit": "2025-02-03T22:27:18Z",
+            "owner": "pachyderm",
+            "repo": "pachyderm",
+            "stars": 6308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pachyderm",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23653453,
+            "language": "Go",
+            "last_commit": "2025-02-03T22:27:18Z",
+            "owner": "pachyderm",
+            "repo": "pachyderm",
+            "stars": 6308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "delta",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 182849188,
+            "language": "Scala",
+            "last_commit": "2026-08-22T16:55:00Z",
+            "owner": "delta-io",
+            "repo": "delta",
+            "stars": 8953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "delta",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 182849188,
+            "language": "Scala",
+            "last_commit": "2026-08-22T16:55:00Z",
+            "owner": "delta-io",
+            "repo": "delta",
+            "stars": 8953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lakeFS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208038454,
+            "language": "Go",
+            "last_commit": "2026-08-19T13:41:32Z",
+            "owner": "treeverse",
+            "repo": "lakeFS",
+            "stars": 5493
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lakeFS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 208038454,
+            "language": "Go",
+            "last_commit": "2026-08-19T13:41:32Z",
+            "owner": "treeverse",
+            "repo": "lakeFS",
+            "stars": 5493
+          }
+        }
+      ],
+      "title": "Data versioning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "towhee",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 385532537,
+            "language": "Python",
+            "last_commit": "2024-10-18T00:01:12Z",
+            "owner": "towhee-io",
+            "repo": "towhee",
+            "stars": 3454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "towhee",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 385532537,
+            "language": "Python",
+            "last_commit": "2024-10-18T00:01:12Z",
+            "owner": "towhee-io",
+            "repo": "towhee",
+            "stars": 3454
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124853261,
+            "language": "Python",
+            "last_commit": "2025-01-17T12:09:41Z",
+            "owner": "tensorflow",
+            "repo": "hub",
+            "stars": 3523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hub",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124853261,
+            "language": "Python",
+            "last_commit": "2025-01-17T12:09:41Z",
+            "owner": "tensorflow",
+            "repo": "hub",
+            "stars": 3523
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "transformers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 155220641,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:07:06Z",
+            "owner": "huggingface",
+            "repo": "transformers",
+            "stars": 164394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "transformers",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 155220641,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:07:06Z",
+            "owner": "huggingface",
+            "repo": "transformers",
+            "stars": 164394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lightly",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 303705119,
+            "language": "Python",
+            "last_commit": "2026-08-21T20:54:21Z",
+            "owner": "lightly-ai",
+            "repo": "lightly",
+            "stars": 3796
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lightly",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 303705119,
+            "language": "Python",
+            "last_commit": "2026-08-21T20:54:21Z",
+            "owner": "lightly-ai",
+            "repo": "lightly",
+            "stars": 3796
+          }
+        }
+      ],
+      "title": "Embeddings and pre-trained models"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "spotlight",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 594756461,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T11:28:25Z",
+            "owner": "Renumics",
+            "repo": "spotlight",
+            "stars": 1272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spotlight",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 594756461,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T11:28:25Z",
+            "owner": "Renumics",
+            "repo": "spotlight",
+            "stars": 1272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fiftyone",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257913595,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:17:59Z",
+            "owner": "voxel51",
+            "repo": "fiftyone",
+            "stars": 11033
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fiftyone",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257913595,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:17:59Z",
+            "owner": "voxel51",
+            "repo": "fiftyone",
+            "stars": 11033
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "refinery",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 510380884,
+            "language": "Python",
+            "last_commit": "2024-12-09T12:46:40Z",
+            "owner": "code-kern-ai",
+            "repo": "refinery",
+            "stars": 1469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "refinery",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 510380884,
+            "language": "Python",
+            "last_commit": "2024-12-09T12:46:40Z",
+            "owner": "code-kern-ai",
+            "repo": "refinery",
+            "stars": 1469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "argilla",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 362500938,
+            "language": "Python",
+            "last_commit": "2026-08-17T22:45:04Z",
+            "owner": "argilla-io",
+            "repo": "argilla",
+            "stars": 5083
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "argilla",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 362500938,
+            "language": "Python",
+            "last_commit": "2026-08-17T22:45:04Z",
+            "owner": "argilla-io",
+            "repo": "argilla",
+            "stars": 5083
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xtreme1",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 522563260,
+            "language": "TypeScript",
+            "last_commit": "2026-06-15T13:23:33Z",
+            "owner": "xtreme1-io",
+            "repo": "xtreme1",
+            "stars": 1234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xtreme1",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 522563260,
+            "language": "TypeScript",
+            "last_commit": "2026-06-15T13:23:33Z",
+            "owner": "xtreme1-io",
+            "repo": "xtreme1",
+            "stars": 1234
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fg-data-profiling",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49346299,
+            "language": "Python",
+            "last_commit": "2026-04-22T23:26:39Z",
+            "owner": "Data-Centric-AI-Community",
+            "repo": "fg-data-profiling",
+            "stars": 13685
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fg-data-profiling",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49346299,
+            "language": "Python",
+            "last_commit": "2026-04-22T23:26:39Z",
+            "owner": "Data-Centric-AI-Community",
+            "repo": "fg-data-profiling",
+            "stars": 13685
+          }
+        }
+      ],
+      "title": "Visualization and Interaction"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cleanlab",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 132975485,
+            "language": "Python",
+            "last_commit": "2026-01-13T17:39:04Z",
+            "owner": "cleanlab",
+            "repo": "cleanlab",
+            "stars": 11632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cleanlab",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 132975485,
+            "language": "Python",
+            "last_commit": "2026-01-13T17:39:04Z",
+            "owner": "cleanlab",
+            "repo": "cleanlab",
+            "stars": 11632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PyOD",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105699750,
+            "language": "Python",
+            "last_commit": "2026-08-19T03:12:27Z",
+            "owner": "yzhao062",
+            "repo": "pyod",
+            "stars": 9977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyod",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105699750,
+            "language": "Python",
+            "last_commit": "2026-08-19T03:12:27Z",
+            "owner": "yzhao062",
+            "repo": "pyod",
+            "stars": 9977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tods",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 293719013,
+            "language": "Python",
+            "last_commit": "2023-09-11T15:48:11Z",
+            "owner": "datamllab",
+            "repo": "tods",
+            "stars": 1666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tods",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 293719013,
+            "language": "Python",
+            "last_commit": "2023-09-11T15:48:11Z",
+            "owner": "datamllab",
+            "repo": "tods",
+            "stars": 1666
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alibi-detect",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 213390927,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-11T16:35:15Z",
+            "owner": "SeldonIO",
+            "repo": "alibi-detect",
+            "stars": 2548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alibi-detect",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 213390927,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-12-11T16:35:15Z",
+            "owner": "SeldonIO",
+            "repo": "alibi-detect",
+            "stars": 2548
+          }
+        }
+      ],
+      "title": "Outlier and noise detection"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "shap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74505259,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T21:52:04Z",
+            "owner": "shap",
+            "repo": "shap",
+            "stars": 25699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74505259,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T21:52:04Z",
+            "owner": "shap",
+            "repo": "shap",
+            "stars": 25699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alibi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172687028,
+            "language": "Python",
+            "last_commit": "2025-10-17T13:23:21Z",
+            "owner": "SeldonIO",
+            "repo": "alibi",
+            "stars": 2643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "alibi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172687028,
+            "language": "Python",
+            "last_commit": "2025-10-17T13:23:21Z",
+            "owner": "SeldonIO",
+            "repo": "alibi",
+            "stars": 2643
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LIME",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53982546,
+            "language": "JavaScript",
+            "last_commit": "2024-07-25T20:32:21Z",
+            "owner": "marcotcr",
+            "repo": "lime",
+            "stars": 12166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lime",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53982546,
+            "language": "JavaScript",
+            "last_commit": "2024-07-25T20:32:21Z",
+            "owner": "marcotcr",
+            "repo": "lime",
+            "stars": 12166
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "captum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 204734444,
+            "language": "Python",
+            "last_commit": "2026-08-22T02:50:58Z",
+            "owner": "meta-pytorch",
+            "repo": "captum",
+            "stars": 5688
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "captum",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 204734444,
+            "language": "Python",
+            "last_commit": "2026-08-22T02:50:58Z",
+            "owner": "meta-pytorch",
+            "repo": "captum",
+            "stars": 5688
+          }
+        }
+      ],
+      "title": "Explainability"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "modAL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110697473,
+            "language": "Python",
+            "last_commit": "2024-02-26T15:38:11Z",
+            "owner": "modAL-python",
+            "repo": "modAL",
+            "stars": 2361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "modAL",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110697473,
+            "language": "Python",
+            "last_commit": "2024-02-26T15:38:11Z",
+            "owner": "modAL-python",
+            "repo": "modAL",
+            "stars": 2361
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "baal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 211948492,
+            "language": "Python",
+            "last_commit": "2025-12-03T21:18:11Z",
+            "owner": "baal-org",
+            "repo": "baal",
+            "stars": 935
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "baal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 211948492,
+            "language": "Python",
+            "last_commit": "2025-12-03T21:18:11Z",
+            "owner": "baal-org",
+            "repo": "baal",
+            "stars": 935
+          }
+        }
+      ],
+      "title": "Active learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Uncertainty Toolbox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 293174301,
+            "language": "Python",
+            "last_commit": "2025-03-05T00:46:24Z",
+            "owner": "uncertainty-toolbox",
+            "repo": "uncertainty-toolbox",
+            "stars": 2011
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAPIE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 352931865,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-14T13:49:29Z",
+            "owner": "scikit-learn-contrib",
+            "repo": "MAPIE",
+            "stars": 1583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAPIE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 352931865,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-14T13:49:29Z",
+            "owner": "scikit-learn-contrib",
+            "repo": "MAPIE",
+            "stars": 1583
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MAPIE",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 352931865,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-14T13:49:29Z",
+            "owner": "scikit-learn-contrib",
+            "repo": "MAPIE",
+            "stars": 1583
+          }
+        }
+      ],
+      "title": "Uncertainty quantification"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "AIF360",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145761123,
+            "language": "Python",
+            "last_commit": "2026-06-15T19:55:33Z",
+            "owner": "Trusted-AI",
+            "repo": "AIF360",
+            "stars": 2857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIF360",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145761123,
+            "language": "Python",
+            "last_commit": "2026-06-15T19:55:33Z",
+            "owner": "Trusted-AI",
+            "repo": "AIF360",
+            "stars": 2857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fairlearn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133444044,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:27:16Z",
+            "owner": "fairlearn",
+            "repo": "fairlearn",
+            "stars": 2273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fairlearn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133444044,
+            "language": "Python",
+            "last_commit": "2026-08-24T06:27:16Z",
+            "owner": "fairlearn",
+            "repo": "fairlearn",
+            "stars": 2273
+          }
+        }
+      ],
+      "title": "Bias and fairness"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "phoenix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 564072810,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:21:52Z",
+            "owner": "Arize-ai",
+            "repo": "phoenix",
+            "stars": 11168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "phoenix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 564072810,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:21:52Z",
+            "owner": "Arize-ai",
+            "repo": "phoenix",
+            "stars": 11168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deepchecks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 415969774,
+            "language": "Python",
+            "last_commit": "2025-12-28T12:07:44Z",
+            "owner": "deepchecks",
+            "repo": "deepchecks",
+            "stars": 4047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "deepchecks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 415969774,
+            "language": "Python",
+            "last_commit": "2025-12-28T12:07:44Z",
+            "owner": "deepchecks",
+            "repo": "deepchecks",
+            "stars": 4047
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evidently",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 315977578,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-05T16:29:57Z",
+            "owner": "evidentlyai",
+            "repo": "evidently",
+            "stars": 7840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "evidently",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 315977578,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-05T16:29:57Z",
+            "owner": "evidentlyai",
+            "repo": "evidently",
+            "stars": 7840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "langfuse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 642497346,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:09:42Z",
+            "owner": "langfuse",
+            "repo": "langfuse",
+            "stars": 33629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "langfuse",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 642497346,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T14:09:42Z",
+            "owner": "langfuse",
+            "repo": "langfuse",
+            "stars": 33629
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "langkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633141345,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-22T20:02:14Z",
+            "owner": "whylabs",
+            "repo": "langkit",
+            "stars": 994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "langkit",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 633141345,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-11-22T20:02:14Z",
+            "owner": "whylabs",
+            "repo": "langkit",
+            "stars": 994
+          }
+        }
+      ],
+      "title": "Observability and Monitoring"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "albumentations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 136265021,
+            "language": "Python",
+            "last_commit": "2025-06-25T23:21:43Z",
+            "owner": "albumentations-team",
+            "repo": "albumentations",
+            "stars": 15315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "albumentations",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 136265021,
+            "language": "Python",
+            "last_commit": "2025-06-25T23:21:43Z",
+            "owner": "albumentations-team",
+            "repo": "albumentations",
+            "stars": 15315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gretel-synthetics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 244411609,
+            "language": "Python",
+            "last_commit": "2025-06-24T21:44:06Z",
+            "owner": "gretelai",
+            "repo": "gretel-synthetics",
+            "stars": 683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gretel-synthetics",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 244411609,
+            "language": "Python",
+            "last_commit": "2025-06-24T21:44:06Z",
+            "owner": "gretelai",
+            "repo": "gretel-synthetics",
+            "stars": 683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SDV",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133060053,
+            "language": "Python",
+            "last_commit": "2026-08-24T00:21:09Z",
+            "owner": "sdv-dev",
+            "repo": "SDV",
+            "stars": 3548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SDV",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133060053,
+            "language": "Python",
+            "last_commit": "2026-08-24T00:21:09Z",
+            "owner": "sdv-dev",
+            "repo": "SDV",
+            "stars": 3548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fg-data-synthetic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261229105,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-23T12:34:53Z",
+            "owner": "Data-Centric-AI-Community",
+            "repo": "fg-data-synthetic",
+            "stars": 1654
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fg-data-synthetic",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261229105,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-23T12:34:53Z",
+            "owner": "Data-Centric-AI-Community",
+            "repo": "fg-data-synthetic",
+            "stars": 1654
+          }
+        }
+      ],
+      "title": "Augmentation and synthetic data"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cleverhans",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68254498,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-10T13:26:10Z",
+            "owner": "cleverhans-lab",
+            "repo": "cleverhans",
+            "stars": 6449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cleverhans",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68254498,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-10T13:26:10Z",
+            "owner": "cleverhans-lab",
+            "repo": "cleverhans",
+            "stars": 6449
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adversarial-robustness-toolbox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 125381318,
+            "language": "Python",
+            "last_commit": "2025-12-12T07:01:28Z",
+            "owner": "Trusted-AI",
+            "repo": "adversarial-robustness-toolbox",
+            "stars": 6197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "adversarial-robustness-toolbox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 125381318,
+            "language": "Python",
+            "last_commit": "2025-12-12T07:01:28Z",
+            "owner": "Trusted-AI",
+            "repo": "adversarial-robustness-toolbox",
+            "stars": 6197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "foolbox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94331757,
+            "language": "Python",
+            "last_commit": "2025-12-03T08:37:14Z",
+            "owner": "bethgelab",
+            "repo": "foolbox",
+            "stars": 2972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "foolbox",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94331757,
+            "language": "Python",
+            "last_commit": "2025-12-03T08:37:14Z",
+            "owner": "bethgelab",
+            "repo": "foolbox",
+            "stars": 2972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "giskard-oss",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 466864356,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:43:01Z",
+            "owner": "Giskard-AI",
+            "repo": "giskard-oss",
+            "stars": 5767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "giskard-oss",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 466864356,
+            "language": "Python",
+            "last_commit": "2026-08-24T09:43:01Z",
+            "owner": "Giskard-AI",
+            "repo": "giskard-oss",
+            "stars": 5767
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llm-guard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 671629770,
+            "language": "Python",
+            "last_commit": "2026-07-08T23:58:40Z",
+            "owner": "protectai",
+            "repo": "llm-guard",
+            "stars": 3202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "llm-guard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 671629770,
+            "language": "Python",
+            "last_commit": "2026-07-08T23:58:40Z",
+            "owner": "protectai",
+            "repo": "llm-guard",
+            "stars": 3202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guardrails",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 594609262,
+            "language": "Python",
+            "last_commit": "2026-08-19T13:28:34Z",
+            "owner": "guardrails-ai",
+            "repo": "guardrails",
+            "stars": 7315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guardrails",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 594609262,
+            "language": "Python",
+            "last_commit": "2026-08-19T13:28:34Z",
+            "owner": "guardrails-ai",
+            "repo": "guardrails",
+            "stars": 7315
+          }
+        }
+      ],
+      "title": "Security and robustness"
+    },
+    {
       "description": "In order to keep a useful focus and to prevent duplicate work, we excluded some topics from this list. Read more about them here:",
       "items": [
         {
@@ -68,7 +1454,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:10:19.026Z",
+    "last_updated": "2026-08-24T14:20:08.412Z",
     "original_repository": "Renumics/awesome-open-data-centric-ai",
     "original_repository_id": 607380349,
     "original_repository_sha": "485450706433c12591dac9339f934e28e17cafc3",
