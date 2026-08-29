@@ -10,12 +10,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦉 Data Versioning and ML Experiments",
+            "homepage": "https://dvc.org",
             "id": 83878269,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T18:51:06Z",
+            "open_issues": 201,
             "owner": "treeverse",
             "repo": "dvc",
-            "stars": 15850
+            "stars": 15850,
+            "topics": [
+              "ai",
+              "data-science",
+              "data-version-control",
+              "developer-tools",
+              "machine-learning",
+              "reproducibility",
+              "unstructured-data"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -26,12 +39,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🦉 Data Versioning and ML Experiments",
+            "homepage": "https://dvc.org",
             "id": 83878269,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T18:51:06Z",
+            "open_issues": 201,
             "owner": "treeverse",
             "repo": "dvc",
-            "stars": 15850
+            "stars": 15850,
+            "topics": [
+              "ai",
+              "data-science",
+              "data-version-control",
+              "developer-tools",
+              "machine-learning",
+              "reproducibility",
+              "unstructured-data"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -42,12 +68,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+            "homepage": "https://deeplake.ai",
             "id": 201403923,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-21T15:28:00Z",
+            "open_issues": 66,
             "owner": "activeloopai",
             "repo": "deeplake",
-            "stars": 9230
+            "stars": 9230,
+            "topics": [
+              "agent",
+              "agentic-rag",
+              "ai",
+              "clawbot",
+              "computer-vision",
+              "datalake",
+              "deep-learning",
+              "filesystem",
+              "large-language-models",
+              "llm",
+              "memory",
+              "mlops",
+              "multimodal",
+              "openclaw",
+              "postgres",
+              "pytorch",
+              "rag",
+              "skill",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -58,12 +109,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deeplake is AI Data Runtime for Agents. It provides serverless postgres with a multimodal datalake, enabling scalable retrieval and training.",
+            "homepage": "https://deeplake.ai",
             "id": 201403923,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-21T15:28:00Z",
+            "open_issues": 66,
             "owner": "activeloopai",
             "repo": "deeplake",
-            "stars": 9230
+            "stars": 9230,
+            "topics": [
+              "agent",
+              "agentic-rag",
+              "ai",
+              "clawbot",
+              "computer-vision",
+              "datalake",
+              "deep-learning",
+              "filesystem",
+              "large-language-models",
+              "llm",
+              "memory",
+              "mlops",
+              "multimodal",
+              "openclaw",
+              "postgres",
+              "pytorch",
+              "rag",
+              "skill",
+              "vector-database"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -74,12 +150,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data-Centric Pipelines and Data Versioning",
+            "homepage": "https://www.pachyderm.com/",
             "id": 23653453,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-03T22:27:18Z",
+            "open_issues": 940,
             "owner": "pachyderm",
             "repo": "pachyderm",
-            "stars": 6308
+            "stars": 6308,
+            "topics": [
+              "analytics",
+              "big-data",
+              "containers",
+              "data-analysis",
+              "data-science",
+              "distributed-systems",
+              "docker",
+              "go",
+              "kubernetes",
+              "pachyderm"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -90,12 +182,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Data-Centric Pipelines and Data Versioning",
+            "homepage": "https://www.pachyderm.com/",
             "id": 23653453,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-02-03T22:27:18Z",
+            "open_issues": 940,
             "owner": "pachyderm",
             "repo": "pachyderm",
-            "stars": 6308
+            "stars": 6308,
+            "topics": [
+              "analytics",
+              "big-data",
+              "containers",
+              "data-analysis",
+              "data-science",
+              "distributed-systems",
+              "docker",
+              "go",
+              "kubernetes",
+              "pachyderm"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -106,12 +214,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+            "homepage": "https://delta.io",
             "id": 182849188,
             "language": "Scala",
-            "last_commit": "2026-08-28T17:39:30Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:14:34Z",
+            "open_issues": 938,
             "owner": "delta-io",
             "repo": "delta",
-            "stars": 8962
+            "stars": 8961,
+            "topics": [
+              "acid",
+              "analytics",
+              "big-data",
+              "delta-lake",
+              "spark"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -122,12 +241,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs",
+            "homepage": "https://delta.io",
             "id": 182849188,
             "language": "Scala",
-            "last_commit": "2026-08-28T17:39:30Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:14:34Z",
+            "open_issues": 938,
             "owner": "delta-io",
             "repo": "delta",
-            "stars": 8962
+            "stars": 8961,
+            "topics": [
+              "acid",
+              "analytics",
+              "big-data",
+              "delta-lake",
+              "spark"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -138,12 +268,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lakeFS - Data version control for your data lake | Git for data",
+            "homepage": "https://docs.lakefs.io",
             "id": 208038454,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T13:41:32Z",
+            "open_issues": 439,
             "owner": "treeverse",
             "repo": "lakeFS",
-            "stars": 5499
+            "stars": 5499,
+            "topics": [
+              "apache-spark",
+              "apache-sparksql",
+              "aws-s3",
+              "azure-blob-storage",
+              "azure-storage",
+              "data-engineering",
+              "data-lake",
+              "data-quality",
+              "data-version-control",
+              "data-versioning",
+              "datalake",
+              "datalakes",
+              "git-for-data",
+              "go",
+              "golang",
+              "google-cloud-storage",
+              "hadoop-filesystem",
+              "lakefs",
+              "object-storage"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -154,12 +309,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "lakeFS - Data version control for your data lake | Git for data",
+            "homepage": "https://docs.lakefs.io",
             "id": 208038454,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-19T13:41:32Z",
+            "open_issues": 439,
             "owner": "treeverse",
             "repo": "lakeFS",
-            "stars": 5499
+            "stars": 5499,
+            "topics": [
+              "apache-spark",
+              "apache-sparksql",
+              "aws-s3",
+              "azure-blob-storage",
+              "azure-storage",
+              "data-engineering",
+              "data-lake",
+              "data-quality",
+              "data-version-control",
+              "data-versioning",
+              "datalake",
+              "datalakes",
+              "git-for-data",
+              "go",
+              "golang",
+              "google-cloud-storage",
+              "hadoop-filesystem",
+              "lakefs",
+              "object-storage"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         }
@@ -176,12 +356,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.",
+            "homepage": "https://towhee.io",
             "id": 385532537,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-18T00:01:12Z",
+            "open_issues": 0,
             "owner": "towhee-io",
             "repo": "towhee",
-            "stars": 3454
+            "stars": 3454,
+            "topics": [
+              "computer-vision",
+              "convolutional-networks",
+              "embedding-vectors",
+              "embeddings",
+              "feature-extraction",
+              "feature-vector",
+              "image-processing",
+              "image-retrieval",
+              "llm",
+              "machine-learning",
+              "milvus",
+              "pipeline",
+              "towhee",
+              "transformer",
+              "unstructured-data",
+              "video-processing",
+              "vision-transformer",
+              "vit"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -192,12 +396,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Towhee is a framework that is dedicated to making neural data processing pipelines simple and fast.",
+            "homepage": "https://towhee.io",
             "id": 385532537,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-18T00:01:12Z",
+            "open_issues": 0,
             "owner": "towhee-io",
             "repo": "towhee",
-            "stars": 3454
+            "stars": 3454,
+            "topics": [
+              "computer-vision",
+              "convolutional-networks",
+              "embedding-vectors",
+              "embeddings",
+              "feature-extraction",
+              "feature-vector",
+              "image-processing",
+              "image-retrieval",
+              "llm",
+              "machine-learning",
+              "milvus",
+              "pipeline",
+              "towhee",
+              "transformer",
+              "unstructured-data",
+              "video-processing",
+              "vision-transformer",
+              "vit"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -208,12 +436,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for transfer learning by reusing parts of TensorFlow models.",
+            "homepage": "https://tensorflow.org/hub",
             "id": 124853261,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-17T12:09:41Z",
+            "open_issues": 5,
             "owner": "tensorflow",
             "repo": "hub",
-            "stars": 3524
+            "stars": 3524,
+            "topics": [
+              "embeddings",
+              "image-classification",
+              "machine-learning",
+              "ml",
+              "python",
+              "tensorflow",
+              "transfer-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -224,12 +465,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for transfer learning by reusing parts of TensorFlow models.",
+            "homepage": "https://tensorflow.org/hub",
             "id": 124853261,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-17T12:09:41Z",
+            "open_issues": 5,
             "owner": "tensorflow",
             "repo": "hub",
-            "stars": 3524
+            "stars": 3524,
+            "topics": [
+              "embeddings",
+              "image-classification",
+              "machine-learning",
+              "ml",
+              "python",
+              "tensorflow",
+              "transfer-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -240,12 +494,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+            "homepage": "https://huggingface.co/transformers",
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-28T23:10:26Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:30:04Z",
+            "open_issues": 2396,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164579
+            "stars": 164588,
+            "topics": [
+              "audio",
+              "deep-learning",
+              "deepseek",
+              "gemma",
+              "glm",
+              "hacktoberfest",
+              "llm",
+              "machine-learning",
+              "model-hub",
+              "natural-language-processing",
+              "nlp",
+              "pretrained-models",
+              "python",
+              "pytorch",
+              "pytorch-transformers",
+              "qwen",
+              "speech-recognition",
+              "transformer",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -256,12 +535,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+            "homepage": "https://huggingface.co/transformers",
             "id": 155220641,
             "language": "Python",
-            "last_commit": "2026-08-28T23:10:26Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:30:04Z",
+            "open_issues": 2396,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 164579
+            "stars": 164588,
+            "topics": [
+              "audio",
+              "deep-learning",
+              "deepseek",
+              "gemma",
+              "glm",
+              "hacktoberfest",
+              "llm",
+              "machine-learning",
+              "model-hub",
+              "natural-language-processing",
+              "nlp",
+              "pretrained-models",
+              "python",
+              "pytorch",
+              "pytorch-transformers",
+              "qwen",
+              "speech-recognition",
+              "transformer",
+              "vlm"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -272,12 +576,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python library for self-supervised learning on images.",
+            "homepage": "https://docs.lightly.ai/self-supervised-learning/",
             "id": 303705119,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:55:27Z",
+            "open_issues": 99,
             "owner": "lightly-ai",
             "repo": "lightly",
-            "stars": 3800
+            "stars": 3800,
+            "topics": [
+              "computer-vision",
+              "contrastive-learning",
+              "contributions-welcome",
+              "deep-learning",
+              "embeddings",
+              "hacktoberfest",
+              "machine-learning",
+              "pytorch",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -288,12 +607,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A python library for self-supervised learning on images.",
+            "homepage": "https://docs.lightly.ai/self-supervised-learning/",
             "id": 303705119,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:55:27Z",
+            "open_issues": 99,
             "owner": "lightly-ai",
             "repo": "lightly",
-            "stars": 3800
+            "stars": 3800,
+            "topics": [
+              "computer-vision",
+              "contrastive-learning",
+              "contributions-welcome",
+              "deep-learning",
+              "embeddings",
+              "hacktoberfest",
+              "machine-learning",
+              "pytorch",
+              "self-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         }
@@ -310,12 +644,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactively explore unstructured datasets from your dataframe.",
+            "homepage": "https://renumics.com",
             "id": 594756461,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-19T11:28:25Z",
+            "open_issues": 5,
             "owner": "Renumics",
             "repo": "spotlight",
-            "stars": 1272
+            "stars": 1272,
+            "topics": [
+              "audio",
+              "computer-vision",
+              "data-centric-ai",
+              "data-curation",
+              "data-visualization",
+              "exploratory-data-analysis",
+              "hacktoberfest",
+              "images",
+              "machine-learning",
+              "meshes",
+              "timeseries",
+              "unstructured-data",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -326,12 +679,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactively explore unstructured datasets from your dataframe.",
+            "homepage": "https://renumics.com",
             "id": 594756461,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-19T11:28:25Z",
+            "open_issues": 5,
             "owner": "Renumics",
             "repo": "spotlight",
-            "stars": 1272
+            "stars": 1272,
+            "topics": [
+              "audio",
+              "computer-vision",
+              "data-centric-ai",
+              "data-curation",
+              "data-visualization",
+              "exploratory-data-analysis",
+              "hacktoberfest",
+              "images",
+              "machine-learning",
+              "meshes",
+              "timeseries",
+              "unstructured-data",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -342,12 +714,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Refine high-quality datasets and visual AI models",
+            "homepage": "https://fiftyone.ai",
             "id": 257913595,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T21:45:17Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:34:13Z",
+            "open_issues": 677,
             "owner": "voxel51",
             "repo": "fiftyone",
-            "stars": 11048
+            "stars": 11048,
+            "topics": [
+              "active-learning",
+              "artificial-intelligence",
+              "computer-vision",
+              "data-centric-ai",
+              "data-cleaning",
+              "data-curation",
+              "data-quality",
+              "data-science",
+              "deep-learning",
+              "developer-tools",
+              "image-classification",
+              "machine-learning",
+              "object-detection",
+              "python",
+              "unstructured-data",
+              "vector-search",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -358,12 +753,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Refine high-quality datasets and visual AI models",
+            "homepage": "https://fiftyone.ai",
             "id": 257913595,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T21:45:17Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T04:34:13Z",
+            "open_issues": 677,
             "owner": "voxel51",
             "repo": "fiftyone",
-            "stars": 11048
+            "stars": 11048,
+            "topics": [
+              "active-learning",
+              "artificial-intelligence",
+              "computer-vision",
+              "data-centric-ai",
+              "data-cleaning",
+              "data-curation",
+              "data-quality",
+              "data-science",
+              "deep-learning",
+              "developer-tools",
+              "image-classification",
+              "machine-learning",
+              "object-detection",
+              "python",
+              "unstructured-data",
+              "vector-search",
+              "visualization"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -374,12 +792,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The data scientist's open-source choice to scale, assess and maintain natural language data. Treat training data like a software artifact.",
+            "homepage": "https://www.kern.ai",
             "id": 510380884,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-09T12:46:40Z",
+            "open_issues": 70,
             "owner": "code-kern-ai",
             "repo": "refinery",
-            "stars": 1469
+            "stars": 1469,
+            "topics": [
+              "active-learning",
+              "annotations",
+              "artificial-intelligence",
+              "data-centric-ai",
+              "data-labeling",
+              "data-science",
+              "deep-learning",
+              "human-in-the-loop",
+              "labeling",
+              "labeling-tool",
+              "machine-learning",
+              "natural-language-processing",
+              "neural-search",
+              "nlp",
+              "python",
+              "spacy",
+              "supervised-learning",
+              "text-annotation",
+              "text-classification",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -390,12 +834,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The data scientist's open-source choice to scale, assess and maintain natural language data. Treat training data like a software artifact.",
+            "homepage": "https://www.kern.ai",
             "id": 510380884,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-09T12:46:40Z",
+            "open_issues": 70,
             "owner": "code-kern-ai",
             "repo": "refinery",
-            "stars": 1469
+            "stars": 1469,
+            "topics": [
+              "active-learning",
+              "annotations",
+              "artificial-intelligence",
+              "data-centric-ai",
+              "data-labeling",
+              "data-science",
+              "deep-learning",
+              "human-in-the-loop",
+              "labeling",
+              "labeling-tool",
+              "machine-learning",
+              "natural-language-processing",
+              "neural-search",
+              "nlp",
+              "python",
+              "spacy",
+              "supervised-learning",
+              "text-annotation",
+              "text-classification",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -406,12 +876,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets",
+            "homepage": "https://argilla-io.github.io/argilla/latest/",
             "id": 362500938,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T22:15:29Z",
+            "open_issues": 29,
             "owner": "argilla-io",
             "repo": "argilla",
-            "stars": 5088
+            "stars": 5088,
+            "topics": [
+              "active-learning",
+              "ai",
+              "annotation-tool",
+              "developer-tools",
+              "gpt-4",
+              "human-in-the-loop",
+              "langchain",
+              "llm",
+              "machine-learning",
+              "mlops",
+              "natural-language-processing",
+              "nlp",
+              "rlhf",
+              "text-annotation",
+              "text-labeling",
+              "weak-supervision",
+              "weakly-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -422,12 +915,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets",
+            "homepage": "https://argilla-io.github.io/argilla/latest/",
             "id": 362500938,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T22:15:29Z",
+            "open_issues": 29,
             "owner": "argilla-io",
             "repo": "argilla",
-            "stars": 5088
+            "stars": 5088,
+            "topics": [
+              "active-learning",
+              "ai",
+              "annotation-tool",
+              "developer-tools",
+              "gpt-4",
+              "human-in-the-loop",
+              "langchain",
+              "llm",
+              "machine-learning",
+              "mlops",
+              "natural-language-processing",
+              "nlp",
+              "rlhf",
+              "text-annotation",
+              "text-labeling",
+              "weak-supervision",
+              "weakly-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -438,12 +954,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Xtreme1 is an all-in-one data labeling and annotation platform for multimodal data training and supports 3D LiDAR point cloud, image, and LLM.",
+            "homepage": "https://www.basic.ai",
             "id": 522563260,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-15T13:23:33Z",
+            "open_issues": 46,
             "owner": "xtreme1-io",
             "repo": "xtreme1",
-            "stars": 1236
+            "stars": 1236,
+            "topics": [
+              "3d-annotation",
+              "annotation",
+              "annotation-tool",
+              "computer-vision",
+              "image-annotation",
+              "image-classification",
+              "image-labelling-tool",
+              "labeling-tool",
+              "lidar-annotation",
+              "lidar-camera-fusion",
+              "lidar-object-detection",
+              "lidar-object-tracking",
+              "multimodal",
+              "point-cloud",
+              "rlhf"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -454,12 +991,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Xtreme1 is an all-in-one data labeling and annotation platform for multimodal data training and supports 3D LiDAR point cloud, image, and LLM.",
+            "homepage": "https://www.basic.ai",
             "id": 522563260,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-15T13:23:33Z",
+            "open_issues": 46,
             "owner": "xtreme1-io",
             "repo": "xtreme1",
-            "stars": 1236
+            "stars": 1236,
+            "topics": [
+              "3d-annotation",
+              "annotation",
+              "annotation-tool",
+              "computer-vision",
+              "image-annotation",
+              "image-classification",
+              "image-labelling-tool",
+              "labeling-tool",
+              "lidar-annotation",
+              "lidar-camera-fusion",
+              "lidar-object-detection",
+              "lidar-object-tracking",
+              "multimodal",
+              "point-cloud",
+              "rlhf"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -470,12 +1028,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames. ",
+            "homepage": "https://docs.sdk.ydata.ai",
             "id": 49346299,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-22T23:26:39Z",
+            "open_issues": 325,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13683
+            "stars": 13682,
+            "topics": [
+              "big-data-analytics",
+              "data-analysis",
+              "data-exploration",
+              "data-profiling",
+              "data-quality",
+              "data-science",
+              "deep-learning",
+              "eda",
+              "exploration",
+              "exploratory-data-analysis",
+              "hacktoberfest",
+              "html-report",
+              "jupyter",
+              "jupyter-notebook",
+              "machine-learning",
+              "pandas",
+              "pandas-dataframe",
+              "pandas-profiling",
+              "python",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -486,12 +1070,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "1 Line of code data quality profiling & exploratory data analysis for Pandas and Spark DataFrames. ",
+            "homepage": "https://docs.sdk.ydata.ai",
             "id": 49346299,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-04-22T23:26:39Z",
+            "open_issues": 325,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13683
+            "stars": 13682,
+            "topics": [
+              "big-data-analytics",
+              "data-analysis",
+              "data-exploration",
+              "data-profiling",
+              "data-quality",
+              "data-science",
+              "deep-learning",
+              "eda",
+              "exploration",
+              "exploratory-data-analysis",
+              "hacktoberfest",
+              "html-report",
+              "jupyter",
+              "jupyter-notebook",
+              "machine-learning",
+              "pandas",
+              "pandas-dataframe",
+              "pandas-profiling",
+              "python",
+              "statistics"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         }
@@ -508,12 +1118,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.",
+            "homepage": "https://cleanlab.ai",
             "id": 132975485,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-13T17:39:04Z",
+            "open_issues": 122,
             "owner": "cleanlab",
             "repo": "cleanlab",
-            "stars": 11638
+            "stars": 11639,
+            "topics": [
+              "active-learning",
+              "annotation",
+              "anomaly-detection",
+              "data-annotation",
+              "data-centric-ai",
+              "data-cleaning",
+              "data-curation",
+              "data-labeling",
+              "data-profiling",
+              "data-quality",
+              "data-science",
+              "data-validation",
+              "datasets",
+              "exploratory-data-analysis",
+              "labeling",
+              "machine-learning",
+              "noisy-labels",
+              "out-of-distribution-detection",
+              "outlier-detection",
+              "weak-supervision"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -524,12 +1160,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cleanlab's open-source library is the standard data-centric AI package for data quality and machine learning with messy, real-world data and labels.",
+            "homepage": "https://cleanlab.ai",
             "id": 132975485,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-13T17:39:04Z",
+            "open_issues": 122,
             "owner": "cleanlab",
             "repo": "cleanlab",
-            "stars": 11638
+            "stars": 11639,
+            "topics": [
+              "active-learning",
+              "annotation",
+              "anomaly-detection",
+              "data-annotation",
+              "data-centric-ai",
+              "data-cleaning",
+              "data-curation",
+              "data-labeling",
+              "data-profiling",
+              "data-quality",
+              "data-science",
+              "data-validation",
+              "datasets",
+              "exploratory-data-analysis",
+              "labeling",
+              "machine-learning",
+              "noisy-labels",
+              "out-of-distribution-detection",
+              "outlier-detection",
+              "weak-supervision"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -540,12 +1202,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python library for anomaly detection across tabular, time series, graph, text, image, and audio data. 60+ detectors, benchmark-backed ADEngine orchestration, and an agentic workflow for AI agents.",
+            "homepage": "https://pyod.dev/",
             "id": 105699750,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-19T03:12:27Z",
+            "open_issues": 237,
             "owner": "yzhao062",
             "repo": "pyod",
-            "stars": 9977
+            "stars": 9977,
+            "topics": [
+              "agentic-ai",
+              "anomaly-detection",
+              "data-mining",
+              "data-science",
+              "deep-learning",
+              "foundation-models",
+              "fraud-detection",
+              "graph-anomaly-detection",
+              "image-anomaly-detection",
+              "machine-learning",
+              "multimodal",
+              "nlp-anomaly-detection",
+              "novelty-detection",
+              "out-of-distribution-detection",
+              "outlier-detection",
+              "outlier-ensembles",
+              "time-series",
+              "time-series-anomaly-detection",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -556,12 +1243,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python library for anomaly detection across tabular, time series, graph, text, image, and audio data. 60+ detectors, benchmark-backed ADEngine orchestration, and an agentic workflow for AI agents.",
+            "homepage": "https://pyod.dev/",
             "id": 105699750,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-19T03:12:27Z",
+            "open_issues": 237,
             "owner": "yzhao062",
             "repo": "pyod",
-            "stars": 9977
+            "stars": 9977,
+            "topics": [
+              "agentic-ai",
+              "anomaly-detection",
+              "data-mining",
+              "data-science",
+              "deep-learning",
+              "foundation-models",
+              "fraud-detection",
+              "graph-anomaly-detection",
+              "image-anomaly-detection",
+              "machine-learning",
+              "multimodal",
+              "nlp-anomaly-detection",
+              "novelty-detection",
+              "out-of-distribution-detection",
+              "outlier-detection",
+              "outlier-ensembles",
+              "time-series",
+              "time-series-anomaly-detection",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -572,12 +1284,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TODS: An Automated Time-series Outlier Detection System",
+            "homepage": "http://tods-doc.github.io",
             "id": 293719013,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-11T15:48:11Z",
+            "open_issues": 79,
             "owner": "datamllab",
             "repo": "tods",
-            "stars": 1666
+            "stars": 1666,
+            "topics": [
+              "anomaly-detection",
+              "automl",
+              "machine-learning",
+              "outlier-detection",
+              "time-series",
+              "time-series-analysis",
+              "time-series-anomaly-detection"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -588,12 +1313,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TODS: An Automated Time-series Outlier Detection System",
+            "homepage": "http://tods-doc.github.io",
             "id": 293719013,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-11T15:48:11Z",
+            "open_issues": 79,
             "owner": "datamllab",
             "repo": "tods",
-            "stars": 1666
+            "stars": 1666,
+            "topics": [
+              "anomaly-detection",
+              "automl",
+              "machine-learning",
+              "outlier-detection",
+              "time-series",
+              "time-series-analysis",
+              "time-series-anomaly-detection"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -604,12 +1342,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Algorithms for outlier, adversarial and drift detection",
+            "homepage": "https://docs.seldon.io/projects/alibi-detect/en/stable/",
             "id": 213390927,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-11T16:35:15Z",
+            "open_issues": 146,
             "owner": "SeldonIO",
             "repo": "alibi-detect",
-            "stars": 2548
+            "stars": 2548,
+            "topics": [
+              "adversarial",
+              "anomaly",
+              "concept-drift",
+              "data-drift",
+              "detection",
+              "drift-detection",
+              "images",
+              "outlier",
+              "semi-supervised-learning",
+              "tabular-data",
+              "text",
+              "time-series",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -620,12 +1377,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Algorithms for outlier, adversarial and drift detection",
+            "homepage": "https://docs.seldon.io/projects/alibi-detect/en/stable/",
             "id": 213390927,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-11T16:35:15Z",
+            "open_issues": 146,
             "owner": "SeldonIO",
             "repo": "alibi-detect",
-            "stars": 2548
+            "stars": 2548,
+            "topics": [
+              "adversarial",
+              "anomaly",
+              "concept-drift",
+              "data-drift",
+              "detection",
+              "drift-detection",
+              "images",
+              "outlier",
+              "semi-supervised-learning",
+              "tabular-data",
+              "text",
+              "time-series",
+              "unsupervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         }
@@ -642,12 +1418,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A game theoretic approach to explain the output of any machine learning model.",
+            "homepage": "https://shap.readthedocs.io",
             "id": 74505259,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-28T21:30:09Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:35:21Z",
+            "open_issues": 1004,
             "owner": "shap",
             "repo": "shap",
-            "stars": 25709
+            "stars": 25709,
+            "topics": [
+              "deep-learning",
+              "explainability",
+              "gradient-boosting",
+              "interpretability",
+              "machine-learning",
+              "shap",
+              "shapley"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -658,12 +1447,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A game theoretic approach to explain the output of any machine learning model.",
+            "homepage": "https://shap.readthedocs.io",
             "id": 74505259,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-28T21:30:09Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T04:35:21Z",
+            "open_issues": 1004,
             "owner": "shap",
             "repo": "shap",
-            "stars": 25709
+            "stars": 25709,
+            "topics": [
+              "deep-learning",
+              "explainability",
+              "gradient-boosting",
+              "interpretability",
+              "machine-learning",
+              "shap",
+              "shapley"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -674,12 +1476,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Algorithms for explaining machine learning models",
+            "homepage": "https://docs.seldon.io/projects/alibi/en/stable/",
             "id": 172687028,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-17T13:23:21Z",
+            "open_issues": 159,
             "owner": "SeldonIO",
             "repo": "alibi",
-            "stars": 2644
+            "stars": 2644,
+            "topics": [
+              "counterfactual",
+              "explanations",
+              "interpretability",
+              "machine-learning",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -690,12 +1503,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Algorithms for explaining machine learning models",
+            "homepage": "https://docs.seldon.io/projects/alibi/en/stable/",
             "id": 172687028,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-17T13:23:21Z",
+            "open_issues": 159,
             "owner": "SeldonIO",
             "repo": "alibi",
-            "stars": 2644
+            "stars": 2644,
+            "topics": [
+              "counterfactual",
+              "explanations",
+              "interpretability",
+              "machine-learning",
+              "xai"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -706,12 +1530,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lime: Explaining the predictions of any machine learning classifier",
+            "homepage": null,
             "id": 53982546,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-07-25T20:32:21Z",
+            "open_issues": 133,
             "owner": "marcotcr",
             "repo": "lime",
-            "stars": 12163
+            "stars": 12163,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -722,12 +1551,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lime: Explaining the predictions of any machine learning classifier",
+            "homepage": null,
             "id": 53982546,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2024-07-25T20:32:21Z",
+            "open_issues": 133,
             "owner": "marcotcr",
             "repo": "lime",
-            "stars": 12163
+            "stars": 12163,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -738,12 +1572,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model interpretability and understanding for PyTorch",
+            "homepage": "https://captum.ai",
             "id": 204734444,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T04:38:41Z",
+            "open_issues": 72,
             "owner": "meta-pytorch",
             "repo": "captum",
-            "stars": 5694
+            "stars": 5694,
+            "topics": [
+              "feature-attribution",
+              "feature-importance",
+              "interpretability",
+              "interpretable-ai",
+              "interpretable-ml"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -754,12 +1599,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model interpretability and understanding for PyTorch",
+            "homepage": "https://captum.ai",
             "id": 204734444,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T04:38:41Z",
+            "open_issues": 72,
             "owner": "meta-pytorch",
             "repo": "captum",
-            "stars": 5694
+            "stars": 5694,
+            "topics": [
+              "feature-attribution",
+              "feature-importance",
+              "interpretability",
+              "interpretable-ai",
+              "interpretable-ml"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         }
@@ -776,12 +1632,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular active learning framework for Python",
+            "homepage": "https://modAL-python.github.io/",
             "id": 110697473,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-26T15:38:11Z",
+            "open_issues": 108,
             "owner": "modAL-python",
             "repo": "modAL",
-            "stars": 2363
+            "stars": 2363,
+            "topics": [
+              "active-learning",
+              "active-learning-module",
+              "bayesian-optimization",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "machine-learning-api",
+              "machine-learning-library",
+              "python",
+              "scikit-learn"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -792,12 +1663,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modular active learning framework for Python",
+            "homepage": "https://modAL-python.github.io/",
             "id": 110697473,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-26T15:38:11Z",
+            "open_issues": 108,
             "owner": "modAL-python",
             "repo": "modAL",
-            "stars": 2363
+            "stars": 2363,
+            "topics": [
+              "active-learning",
+              "active-learning-module",
+              "bayesian-optimization",
+              "machine-learning",
+              "machine-learning-algorithms",
+              "machine-learning-api",
+              "machine-learning-library",
+              "python",
+              "scikit-learn"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -808,12 +1694,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bayesian active learning library for research and industrial usecases.",
+            "homepage": "https://baal.readthedocs.io",
             "id": 211948492,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-03T21:18:11Z",
+            "open_issues": 20,
             "owner": "baal-org",
             "repo": "baal",
-            "stars": 934
+            "stars": 934,
+            "topics": [
+              "active-learning",
+              "ai",
+              "bayesian-active-learning",
+              "deep-learning",
+              "machine-learning",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -824,12 +1723,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bayesian active learning library for research and industrial usecases.",
+            "homepage": "https://baal.readthedocs.io",
             "id": 211948492,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-03T21:18:11Z",
+            "open_issues": 20,
             "owner": "baal-org",
             "repo": "baal",
-            "stars": 934
+            "stars": 934,
+            "topics": [
+              "active-learning",
+              "ai",
+              "bayesian-active-learning",
+              "deep-learning",
+              "machine-learning",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         }
@@ -846,12 +1758,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Uncertainty Toolbox: a Python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization",
+            "homepage": "https://uncertainty-toolbox.github.io",
             "id": 293174301,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-03-05T00:46:24Z",
+            "open_issues": 16,
             "owner": "uncertainty-toolbox",
             "repo": "uncertainty-toolbox",
-            "stars": 2012
+            "stars": 2012,
+            "topics": [
+              "bayesian-deep-learning",
+              "bayesian-neural-networks",
+              "calibration",
+              "metrics",
+              "predictive-uncertainty",
+              "recalibration",
+              "scoring-rules",
+              "sharpness",
+              "toolbox",
+              "uncertainty",
+              "uncertainty-calibration",
+              "uncertainty-estimation",
+              "uncertainty-metrics",
+              "uncertainty-quantification",
+              "uncertainty-toolbox",
+              "visualization",
+              "visualizations"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -862,12 +1797,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scikit-learn-compatible library for estimating prediction intervals and controlling risks, based on conformal predictions.",
+            "homepage": "https://mapie.readthedocs.io/en/stable/",
             "id": 352931865,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-14T13:49:29Z",
+            "open_issues": 24,
             "owner": "scikit-learn-contrib",
             "repo": "MAPIE",
-            "stars": 1584
+            "stars": 1584,
+            "topics": [
+              "classification",
+              "confidence-intervals",
+              "conformal-prediction",
+              "data-science",
+              "python",
+              "regression",
+              "risk-control",
+              "sklearn"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -878,12 +1827,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scikit-learn-compatible library for estimating prediction intervals and controlling risks, based on conformal predictions.",
+            "homepage": "https://mapie.readthedocs.io/en/stable/",
             "id": 352931865,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-14T13:49:29Z",
+            "open_issues": 24,
             "owner": "scikit-learn-contrib",
             "repo": "MAPIE",
-            "stars": 1584
+            "stars": 1584,
+            "topics": [
+              "classification",
+              "confidence-intervals",
+              "conformal-prediction",
+              "data-science",
+              "python",
+              "regression",
+              "risk-control",
+              "sklearn"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -894,12 +1857,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A scikit-learn-compatible library for estimating prediction intervals and controlling risks, based on conformal predictions.",
+            "homepage": "https://mapie.readthedocs.io/en/stable/",
             "id": 352931865,
             "language": "Jupyter Notebook",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-14T13:49:29Z",
+            "open_issues": 24,
             "owner": "scikit-learn-contrib",
             "repo": "MAPIE",
-            "stars": 1584
+            "stars": 1584,
+            "topics": [
+              "classification",
+              "confidence-intervals",
+              "conformal-prediction",
+              "data-science",
+              "python",
+              "regression",
+              "risk-control",
+              "sklearn"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         }
@@ -916,12 +1893,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.",
+            "homepage": "https://aif360.res.ibm.com/",
             "id": 145761123,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-15T19:55:33Z",
+            "open_issues": 220,
             "owner": "Trusted-AI",
             "repo": "AIF360",
-            "stars": 2858
+            "stars": 2858,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "bias",
+              "bias-correction",
+              "bias-detection",
+              "bias-finder",
+              "bias-reduction",
+              "codait",
+              "deep-learning",
+              "discrimination",
+              "fairness",
+              "fairness-ai",
+              "fairness-awareness-model",
+              "fairness-testing",
+              "ibm-research",
+              "ibm-research-ai",
+              "machine-learning",
+              "python",
+              "r",
+              "trusted-ai"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -932,12 +1935,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A comprehensive set of fairness metrics for datasets and machine learning models, explanations for these metrics, and algorithms to mitigate bias in datasets and models.",
+            "homepage": "https://aif360.res.ibm.com/",
             "id": 145761123,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-15T19:55:33Z",
+            "open_issues": 220,
             "owner": "Trusted-AI",
             "repo": "AIF360",
-            "stars": 2858
+            "stars": 2858,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "bias",
+              "bias-correction",
+              "bias-detection",
+              "bias-finder",
+              "bias-reduction",
+              "codait",
+              "deep-learning",
+              "discrimination",
+              "fairness",
+              "fairness-ai",
+              "fairness-awareness-model",
+              "fairness-testing",
+              "ibm-research",
+              "ibm-research-ai",
+              "machine-learning",
+              "python",
+              "r",
+              "trusted-ai"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -948,12 +1977,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python package to assess and improve fairness of machine learning models.",
+            "homepage": "https://fairlearn.org",
             "id": 133444044,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T17:23:49Z",
+            "open_issues": 123,
             "owner": "fairlearn",
             "repo": "fairlearn",
-            "stars": 2278
+            "stars": 2278,
+            "topics": [
+              "ai",
+              "ai-systems",
+              "artificial-intelligence",
+              "fairness",
+              "fairness-ai",
+              "fairness-assessment",
+              "fairness-ml",
+              "group-fairness",
+              "harms",
+              "machine-learning",
+              "responsible-ai",
+              "unfairness-mitigation"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -964,12 +2011,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python package to assess and improve fairness of machine learning models.",
+            "homepage": "https://fairlearn.org",
             "id": 133444044,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-24T17:23:49Z",
+            "open_issues": 123,
             "owner": "fairlearn",
             "repo": "fairlearn",
-            "stars": 2278
+            "stars": 2278,
+            "topics": [
+              "ai",
+              "ai-systems",
+              "artificial-intelligence",
+              "fairness",
+              "fairness-ai",
+              "fairness-assessment",
+              "fairness-ml",
+              "group-fairness",
+              "harms",
+              "machine-learning",
+              "responsible-ai",
+              "unfairness-mitigation"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         }
@@ -986,12 +2051,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Observability & Evaluation",
+            "homepage": "https://arize.com/docs/phoenix",
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-28T23:01:12Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:14:39Z",
+            "open_issues": 916,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11227
+            "stars": 11229,
+            "topics": [
+              "agents",
+              "ai-monitoring",
+              "ai-observability",
+              "aiengineering",
+              "anthropic",
+              "datasets",
+              "evals",
+              "langchain",
+              "llamaindex",
+              "llm-eval",
+              "llm-evaluation",
+              "llmops",
+              "llms",
+              "openai",
+              "prompt-engineering",
+              "smolagents"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1002,12 +2089,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Observability & Evaluation",
+            "homepage": "https://arize.com/docs/phoenix",
             "id": 564072810,
             "language": "Python",
-            "last_commit": "2026-08-28T23:01:12Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T02:14:39Z",
+            "open_issues": 916,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11227
+            "stars": 11229,
+            "topics": [
+              "agents",
+              "ai-monitoring",
+              "ai-observability",
+              "aiengineering",
+              "anthropic",
+              "datasets",
+              "evals",
+              "langchain",
+              "llamaindex",
+              "llm-eval",
+              "llm-evaluation",
+              "llmops",
+              "llms",
+              "openai",
+              "prompt-engineering",
+              "smolagents"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1018,12 +2127,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deepchecks: Tests for Continuous Validation of ML Models & Data. Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling to thoroughly test your data and models from research to production.",
+            "homepage": "https://docs.deepchecks.com/stable",
             "id": 415969774,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-28T12:07:44Z",
+            "open_issues": 267,
             "owner": "deepchecks",
             "repo": "deepchecks",
-            "stars": 4048
+            "stars": 4048,
+            "topics": [
+              "data-drift",
+              "data-science",
+              "data-validation",
+              "deep-learning",
+              "html-report",
+              "jupyter-notebook",
+              "machine-learning",
+              "ml",
+              "mlops",
+              "model-monitoring",
+              "model-validation",
+              "pandas-dataframe",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1034,12 +2163,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deepchecks: Tests for Continuous Validation of ML Models & Data. Deepchecks is a holistic open-source solution for all of your AI & ML validation needs, enabling to thoroughly test your data and models from research to production.",
+            "homepage": "https://docs.deepchecks.com/stable",
             "id": 415969774,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-28T12:07:44Z",
+            "open_issues": 267,
             "owner": "deepchecks",
             "repo": "deepchecks",
-            "stars": 4048
+            "stars": 4048,
+            "topics": [
+              "data-drift",
+              "data-science",
+              "data-validation",
+              "deep-learning",
+              "html-report",
+              "jupyter-notebook",
+              "machine-learning",
+              "ml",
+              "mlops",
+              "model-monitoring",
+              "model-validation",
+              "pandas-dataframe",
+              "python",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1050,12 +2199,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+            "homepage": "https://discord.gg/xZjKRaNp8b",
             "id": 315977578,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-05T16:29:57Z",
+            "open_issues": 299,
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7861
+            "stars": 7861,
+            "topics": [
+              "data-drift",
+              "data-quality",
+              "data-science",
+              "data-validation",
+              "generative-ai",
+              "hacktoberfest",
+              "html-report",
+              "jupyter-notebook",
+              "llm",
+              "llmops",
+              "machine-learning",
+              "mlops",
+              "model-monitoring",
+              "pandas-dataframe"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1066,12 +2235,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Evidently is ​​an open-source ML and LLM observability framework. Evaluate, test, and monitor any AI-powered system or data pipeline. From tabular data to Gen AI. 100+ metrics.",
+            "homepage": "https://discord.gg/xZjKRaNp8b",
             "id": 315977578,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-05T16:29:57Z",
+            "open_issues": 299,
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7861
+            "stars": 7861,
+            "topics": [
+              "data-drift",
+              "data-quality",
+              "data-science",
+              "data-validation",
+              "generative-ai",
+              "hacktoberfest",
+              "html-report",
+              "jupyter-notebook",
+              "llm",
+              "llmops",
+              "machine-learning",
+              "mlops",
+              "model-monitoring",
+              "pandas-dataframe"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1082,12 +2271,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+            "homepage": "https://langfuse.com",
             "id": 642497346,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:04:54Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:13:21Z",
+            "open_issues": 860,
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 33869
+            "stars": 33872,
+            "topics": [
+              "analytics",
+              "autogen",
+              "evaluation",
+              "langchain",
+              "large-language-models",
+              "llama-index",
+              "llm",
+              "llm-evaluation",
+              "llm-observability",
+              "llmops",
+              "monitoring",
+              "observability",
+              "open-source",
+              "openai",
+              "playground",
+              "prompt-engineering",
+              "prompt-management",
+              "self-hosted",
+              "ycombinator"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1098,12 +2312,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23 ",
+            "homepage": "https://langfuse.com",
             "id": 642497346,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:04:54Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:13:21Z",
+            "open_issues": 860,
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 33869
+            "stars": 33872,
+            "topics": [
+              "analytics",
+              "autogen",
+              "evaluation",
+              "langchain",
+              "large-language-models",
+              "llama-index",
+              "llm",
+              "llm-evaluation",
+              "llm-observability",
+              "llmops",
+              "monitoring",
+              "observability",
+              "open-source",
+              "openai",
+              "playground",
+              "prompt-engineering",
+              "prompt-management",
+              "self-hosted",
+              "ycombinator"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1114,12 +2353,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔍 LangKit: An open-source toolkit for monitoring Large Language Models (LLMs). 📚 Extracts signals from prompts & responses, ensuring safety & security. 🛡️ Features include text quality, relevance metrics, & sentiment analysis. 📊 A comprehensive tool for LLM observability. 👀",
+            "homepage": "https://whylabs.ai",
             "id": 633141345,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-22T20:02:14Z",
+            "open_issues": 37,
             "owner": "whylabs",
             "repo": "langkit",
-            "stars": 995
+            "stars": 995,
+            "topics": [
+              "large-language-models",
+              "machine-learning",
+              "nlg",
+              "nlp",
+              "observability",
+              "prompt-engineering",
+              "prompt-injection"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1130,12 +2382,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🔍 LangKit: An open-source toolkit for monitoring Large Language Models (LLMs). 📚 Extracts signals from prompts & responses, ensuring safety & security. 🛡️ Features include text quality, relevance metrics, & sentiment analysis. 📊 A comprehensive tool for LLM observability. 👀",
+            "homepage": "https://whylabs.ai",
             "id": 633141345,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-22T20:02:14Z",
+            "open_issues": 37,
             "owner": "whylabs",
             "repo": "langkit",
-            "stars": 995
+            "stars": 995,
+            "topics": [
+              "large-language-models",
+              "machine-learning",
+              "nlg",
+              "nlp",
+              "observability",
+              "prompt-engineering",
+              "prompt-injection"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         }
@@ -1152,12 +2417,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fast and flexible image augmentation library. Paper about the library: https://www.mdpi.com/2078-2489/11/2/125",
+            "homepage": "https://albumentations.ai",
             "id": 136265021,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-25T23:21:43Z",
+            "open_issues": 0,
             "owner": "albumentations-team",
             "repo": "albumentations",
-            "stars": 15315
+            "stars": 15315,
+            "topics": [
+              "augmentation",
+              "deep-learning",
+              "detection",
+              "fast-augmentations",
+              "image-augmentation",
+              "image-classification",
+              "image-processing",
+              "image-segmentation",
+              "machine-learning",
+              "object-detection",
+              "python",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1168,12 +2451,30 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Fast and flexible image augmentation library. Paper about the library: https://www.mdpi.com/2078-2489/11/2/125",
+            "homepage": "https://albumentations.ai",
             "id": 136265021,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-25T23:21:43Z",
+            "open_issues": 0,
             "owner": "albumentations-team",
             "repo": "albumentations",
-            "stars": 15315
+            "stars": 15315,
+            "topics": [
+              "augmentation",
+              "deep-learning",
+              "detection",
+              "fast-augmentations",
+              "image-augmentation",
+              "image-classification",
+              "image-processing",
+              "image-segmentation",
+              "machine-learning",
+              "object-detection",
+              "python",
+              "segmentation"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1184,12 +2485,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Synthetic data generators for structured and unstructured text, featuring differentially private learning.",
+            "homepage": "https://gretel.ai/platform/synthetics",
             "id": 244411609,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-24T21:44:06Z",
+            "open_issues": 0,
             "owner": "gretelai",
             "repo": "gretel-synthetics",
-            "stars": 683
+            "stars": 683,
+            "topics": [
+              "artificial-intelligence",
+              "differential-privacy",
+              "privacy",
+              "synthetic-data",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1200,12 +2512,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Synthetic data generators for structured and unstructured text, featuring differentially private learning.",
+            "homepage": "https://gretel.ai/platform/synthetics",
             "id": 244411609,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-06-24T21:44:06Z",
+            "open_issues": 0,
             "owner": "gretelai",
             "repo": "gretel-synthetics",
-            "stars": 683
+            "stars": 683,
+            "topics": [
+              "artificial-intelligence",
+              "differential-privacy",
+              "privacy",
+              "synthetic-data",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1216,12 +2539,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Synthetic data generation for tabular data",
+            "homepage": "https://docs.sdv.dev/sdv",
             "id": 133060053,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:02:05Z",
+            "open_issues": 161,
             "owner": "sdv-dev",
             "repo": "SDV",
-            "stars": 3551
+            "stars": 3551,
+            "topics": [
+              "data-generation",
+              "deep-learning",
+              "gan",
+              "gans",
+              "generative-adversarial-network",
+              "generative-ai",
+              "generative-model",
+              "generativeai",
+              "machine-learning",
+              "multi-table",
+              "relational-datasets",
+              "sdv",
+              "synthetic-data",
+              "synthetic-data-generation",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1232,12 +2576,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Synthetic data generation for tabular data",
+            "homepage": "https://docs.sdv.dev/sdv",
             "id": 133060053,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:02:05Z",
+            "open_issues": 161,
             "owner": "sdv-dev",
             "repo": "SDV",
-            "stars": 3551
+            "stars": 3551,
+            "topics": [
+              "data-generation",
+              "deep-learning",
+              "gan",
+              "gans",
+              "generative-adversarial-network",
+              "generative-ai",
+              "generative-model",
+              "generativeai",
+              "machine-learning",
+              "multi-table",
+              "relational-datasets",
+              "sdv",
+              "synthetic-data",
+              "synthetic-data-generation",
+              "time-series"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1248,12 +2613,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Synthetic data generators for tabular and time-series data",
+            "homepage": "https://docs.sdk.ydata.ai",
             "id": 261229105,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-04-23T12:34:53Z",
+            "open_issues": 64,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-synthetic",
-            "stars": 1654
+            "stars": 1654,
+            "topics": [
+              "datageneration",
+              "datagenerator",
+              "deep-learning",
+              "gan",
+              "gan-architectures",
+              "gans",
+              "generative-adversarial-network",
+              "machine-learning",
+              "python3",
+              "pytorch",
+              "synthetic-data",
+              "tensorflow2",
+              "time-series",
+              "timeseries",
+              "training-data"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1264,12 +2650,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Synthetic data generators for tabular and time-series data",
+            "homepage": "https://docs.sdk.ydata.ai",
             "id": 261229105,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-04-23T12:34:53Z",
+            "open_issues": 64,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-synthetic",
-            "stars": 1654
+            "stars": 1654,
+            "topics": [
+              "datageneration",
+              "datagenerator",
+              "deep-learning",
+              "gan",
+              "gan-architectures",
+              "gans",
+              "generative-adversarial-network",
+              "machine-learning",
+              "python3",
+              "pytorch",
+              "synthetic-data",
+              "tensorflow2",
+              "time-series",
+              "timeseries",
+              "training-data"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         }
@@ -1286,12 +2693,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An adversarial example library for constructing attacks, building defenses, and benchmarking both",
+            "homepage": null,
             "id": 68254498,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-04-10T13:26:10Z",
+            "open_issues": 46,
             "owner": "cleverhans-lab",
             "repo": "cleverhans",
-            "stars": 6450
+            "stars": 6450,
+            "topics": [
+              "benchmarking",
+              "machine-learning",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1302,12 +2718,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An adversarial example library for constructing attacks, building defenses, and benchmarking both",
+            "homepage": null,
             "id": 68254498,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2024-04-10T13:26:10Z",
+            "open_issues": 46,
             "owner": "cleverhans-lab",
             "repo": "cleverhans",
-            "stars": 6450
+            "stars": 6450,
+            "topics": [
+              "benchmarking",
+              "machine-learning",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1318,12 +2743,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams",
+            "homepage": "https://adversarial-robustness-toolbox.readthedocs.io/en/latest/",
             "id": 125381318,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-12T07:01:28Z",
+            "open_issues": 20,
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
-            "stars": 6209
+            "stars": 6209,
+            "topics": [
+              "adversarial-attacks",
+              "adversarial-examples",
+              "adversarial-machine-learning",
+              "ai",
+              "artificial-intelligence",
+              "attack",
+              "blue-team",
+              "evasion",
+              "extraction",
+              "inference",
+              "machine-learning",
+              "poisoning",
+              "privacy",
+              "python",
+              "red-team",
+              "trusted-ai",
+              "trustworthy-ai"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1334,12 +2782,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adversarial Robustness Toolbox (ART) - Python Library for Machine Learning Security - Evasion, Poisoning, Extraction, Inference - Red and Blue Teams",
+            "homepage": "https://adversarial-robustness-toolbox.readthedocs.io/en/latest/",
             "id": 125381318,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-12T07:01:28Z",
+            "open_issues": 20,
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
-            "stars": 6209
+            "stars": 6209,
+            "topics": [
+              "adversarial-attacks",
+              "adversarial-examples",
+              "adversarial-machine-learning",
+              "ai",
+              "artificial-intelligence",
+              "attack",
+              "blue-team",
+              "evasion",
+              "extraction",
+              "inference",
+              "machine-learning",
+              "poisoning",
+              "privacy",
+              "python",
+              "red-team",
+              "trusted-ai",
+              "trustworthy-ai"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1350,12 +2821,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX",
+            "homepage": "https://foolbox.jonasrauber.de",
             "id": 94331757,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-03T08:37:14Z",
+            "open_issues": 29,
             "owner": "bethgelab",
             "repo": "foolbox",
-            "stars": 2972
+            "stars": 2972,
+            "topics": [
+              "adversarial-attacks",
+              "adversarial-examples",
+              "jax",
+              "keras",
+              "machine-learning",
+              "python",
+              "pytorch",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1366,12 +2851,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Python toolbox to create adversarial examples that fool neural networks in PyTorch, TensorFlow, and JAX",
+            "homepage": "https://foolbox.jonasrauber.de",
             "id": 94331757,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-12-03T08:37:14Z",
+            "open_issues": 29,
             "owner": "bethgelab",
             "repo": "foolbox",
-            "stars": 2972
+            "stars": 2972,
+            "topics": [
+              "adversarial-attacks",
+              "adversarial-examples",
+              "jax",
+              "keras",
+              "machine-learning",
+              "python",
+              "pytorch",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1382,12 +2881,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐢 Open-Source Evaluation & Testing library for LLM Agents",
+            "homepage": "https://docs.giskard.ai",
             "id": 466864356,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:04:08Z",
+            "open_issues": 62,
             "owner": "Giskard-AI",
             "repo": "giskard-oss",
-            "stars": 5782
+            "stars": 5787,
+            "topics": [
+              "agent-evaluation",
+              "ai-red-team",
+              "ai-security",
+              "ai-testing",
+              "fairness-ai",
+              "llm",
+              "llm-eval",
+              "llm-evaluation",
+              "llm-security",
+              "llmops",
+              "ml-testing",
+              "ml-validation",
+              "mlops",
+              "rag-evaluation",
+              "red-team-tools",
+              "responsible-ai",
+              "trustworthy-ai"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1398,12 +2920,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐢 Open-Source Evaluation & Testing library for LLM Agents",
+            "homepage": "https://docs.giskard.ai",
             "id": 466864356,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:04:08Z",
+            "open_issues": 62,
             "owner": "Giskard-AI",
             "repo": "giskard-oss",
-            "stars": 5782
+            "stars": 5787,
+            "topics": [
+              "agent-evaluation",
+              "ai-red-team",
+              "ai-security",
+              "ai-testing",
+              "fairness-ai",
+              "llm",
+              "llm-eval",
+              "llm-evaluation",
+              "llm-security",
+              "llmops",
+              "ml-testing",
+              "ml-validation",
+              "mlops",
+              "rag-evaluation",
+              "red-team-tools",
+              "responsible-ai",
+              "trustworthy-ai"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1414,12 +2959,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Security Toolkit for LLM Interactions",
+            "homepage": "https://protectai.github.io/llm-guard/",
             "id": 671629770,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-08T23:58:40Z",
+            "open_issues": 40,
             "owner": "protectai",
             "repo": "llm-guard",
-            "stars": 3205
+            "stars": 3205,
+            "topics": [
+              "adversarial-machine-learning",
+              "chatgpt",
+              "large-language-models",
+              "llm",
+              "llm-security",
+              "llmops",
+              "prompt-engineering",
+              "prompt-injection",
+              "security-tools",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1430,12 +2991,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Security Toolkit for LLM Interactions",
+            "homepage": "https://protectai.github.io/llm-guard/",
             "id": 671629770,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-07-08T23:58:40Z",
+            "open_issues": 40,
             "owner": "protectai",
             "repo": "llm-guard",
-            "stars": 3205
+            "stars": 3205,
+            "topics": [
+              "adversarial-machine-learning",
+              "chatgpt",
+              "large-language-models",
+              "llm",
+              "llm-security",
+              "llmops",
+              "prompt-engineering",
+              "prompt-injection",
+              "security-tools",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1446,12 +3023,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adding guardrails to large language models.",
+            "homepage": "https://www.guardrailsai.com/docs",
             "id": 594609262,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T01:31:22Z",
+            "open_issues": 84,
             "owner": "guardrails-ai",
             "repo": "guardrails",
-            "stars": 7333
+            "stars": 7333,
+            "topics": [
+              "ai",
+              "foundation-model",
+              "gpt-3",
+              "llm",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1462,12 +3050,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Adding guardrails to large language models.",
+            "homepage": "https://www.guardrailsai.com/docs",
             "id": 594609262,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T01:31:22Z",
+            "open_issues": 84,
             "owner": "guardrails-ai",
             "repo": "guardrails",
-            "stars": 7333
+            "stars": 7333,
+            "topics": [
+              "ai",
+              "foundation-model",
+              "gpt-3",
+              "llm",
+              "openai"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         }
@@ -1484,12 +3083,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome open source libraries to deploy, monitor, version and scale your machine learning",
+            "homepage": "https://ethicalml.github.io/awesome-production-machine-learning",
             "id": 144863525,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-26T05:40:57Z",
+            "open_issues": 32,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20877
+            "stars": 20877,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "data-mining",
+              "deep-learning",
+              "explainability",
+              "interpretability",
+              "large-scale-machine-learning",
+              "large-scale-ml",
+              "machine-learning",
+              "machine-learning-operations",
+              "ml-operations",
+              "ml-ops",
+              "mlops",
+              "privacy-preserving",
+              "privacy-preserving-machine-learning",
+              "privacy-preserving-ml",
+              "production-machine-learning",
+              "production-ml",
+              "responsible-ai"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1500,12 +3124,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resources for Data Centric AI",
+            "homepage": null,
             "id": 376119743,
             "language": "TeX",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-13T09:58:57Z",
+            "open_issues": 13,
             "owner": "HazyResearch",
             "repo": "data-centric-ai",
-            "stars": 1147
+            "stars": 1147,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "data-centric-ai",
+              "machine-learning"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1516,12 +3150,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open Source Data Annotation & Labeling Tools",
+            "homepage": null,
             "id": 500116286,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-07-06T19:31:47Z",
+            "open_issues": 2,
             "owner": "zenml-io",
             "repo": "awesome-open-data-annotation",
-            "stars": 725
+            "stars": 725,
+            "topics": [
+              "ai",
+              "annotation",
+              "datacentric",
+              "labelled-data",
+              "labelling",
+              "machine-learning",
+              "mlops"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         },
@@ -1532,12 +3179,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-Source Software, Tutorials, and Research on Data-Centric AI 🤖",
+            "homepage": "https://datacentricai.community",
             "id": 454472302,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-07-13T11:26:19Z",
+            "open_issues": 0,
             "owner": "Data-Centric-AI-Community",
             "repo": "awesome-data-centric-ai",
-            "stars": 353
+            "stars": 353,
+            "topics": [
+              "ai",
+              "artificial-intelligence",
+              "awesome",
+              "awesome-list",
+              "data",
+              "data-labelling",
+              "data-quality",
+              "data-science",
+              "data-visualization",
+              "machine-learning",
+              "open-source",
+              "pandas",
+              "python",
+              "python-library",
+              "research",
+              "synthetic-data",
+              "tools",
+              "tutorials"
+            ]
           },
           "first_seen": "2026-08-28T23:13:58.901Z"
         }
@@ -1546,15 +3217,41 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:13:58.901Z",
+    "last_updated": "2026-08-29T04:37:52.720Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of open source tooling for data-centric AI on unstructured data. ",
+      "homepage": "https://renumics.com",
       "id": 607380349,
       "language": null,
+      "license": "CC-BY-4.0",
       "last_commit": "2023-11-15T11:02:12Z",
+      "open_issues": 5,
       "owner": "Renumics",
       "repo": "awesome-open-data-centric-ai",
-      "stars": 737
+      "stars": 737,
+      "topics": [
+        "active-learning",
+        "awesome-list",
+        "bias-detection",
+        "computer-vision",
+        "data-centric-ai",
+        "data-curation",
+        "data-drift",
+        "data-versioning",
+        "data-visualization",
+        "deep-learning",
+        "documentation-only",
+        "explainable-ai",
+        "feature-vector",
+        "machine-learning",
+        "nlp",
+        "noisy-labels",
+        "outlier-detection",
+        "robust-machine-learning",
+        "synthetic-data",
+        "uncertainty-estimation"
+      ]
     },
     "original_repository_sha": "485450706433c12591dac9339f934e28e17cafc3",
     "enhanced_repository": "enhansome/enhansome-open-data-centric-ai",
