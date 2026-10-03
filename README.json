@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "Data version control (DVC)",
-          "description": null,
+          "description": "treeverse/dvc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -35,7 +35,7 @@
         {
           "node_type": "item",
           "title": "dvc",
-          "description": null,
+          "description": "treeverse/dvc",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -64,7 +64,7 @@
         {
           "node_type": "item",
           "title": "deeplake",
-          "description": null,
+          "description": "activeloopai/deeplake",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -105,7 +105,7 @@
         {
           "node_type": "item",
           "title": "deeplake",
-          "description": null,
+          "description": "activeloopai/deeplake",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -146,7 +146,7 @@
         {
           "node_type": "item",
           "title": "pachyderm",
-          "description": null,
+          "description": "pachyderm/pachyderm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -178,7 +178,7 @@
         {
           "node_type": "item",
           "title": "pachyderm",
-          "description": null,
+          "description": "pachyderm/pachyderm",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -210,7 +210,7 @@
         {
           "node_type": "item",
           "title": "delta",
-          "description": null,
+          "description": "delta-io/delta",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -219,11 +219,11 @@
             "id": 182849188,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T13:13:34Z",
-            "open_issues": 970,
+            "last_commit": "2026-10-03T04:42:05Z",
+            "open_issues": 968,
             "owner": "delta-io",
             "repo": "delta",
-            "stars": 9035,
+            "stars": 9036,
             "topics": [
               "acid",
               "analytics",
@@ -237,7 +237,7 @@
         {
           "node_type": "item",
           "title": "delta",
-          "description": null,
+          "description": "delta-io/delta",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -246,11 +246,11 @@
             "id": 182849188,
             "language": "Scala",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T13:13:34Z",
-            "open_issues": 970,
+            "last_commit": "2026-10-03T04:42:05Z",
+            "open_issues": 968,
             "owner": "delta-io",
             "repo": "delta",
-            "stars": 9035,
+            "stars": 9036,
             "topics": [
               "acid",
               "analytics",
@@ -264,7 +264,7 @@
         {
           "node_type": "item",
           "title": "lakeFS",
-          "description": null,
+          "description": "treeverse/lakeFS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -305,7 +305,7 @@
         {
           "node_type": "item",
           "title": "lakeFS",
-          "description": null,
+          "description": "treeverse/lakeFS",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -352,7 +352,7 @@
         {
           "node_type": "item",
           "title": "towhee",
-          "description": null,
+          "description": "towhee-io/towhee",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -392,7 +392,7 @@
         {
           "node_type": "item",
           "title": "towhee",
-          "description": null,
+          "description": "towhee-io/towhee",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -432,7 +432,7 @@
         {
           "node_type": "item",
           "title": "hub",
-          "description": null,
+          "description": "tensorflow/hub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -461,7 +461,7 @@
         {
           "node_type": "item",
           "title": "hub",
-          "description": null,
+          "description": "tensorflow/hub",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -490,7 +490,7 @@
         {
           "node_type": "item",
           "title": "transformers",
-          "description": null,
+          "description": "huggingface/transformers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -499,11 +499,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:23:32Z",
-            "open_issues": 2358,
+            "last_commit": "2026-10-03T03:54:50Z",
+            "open_issues": 2360,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 166903,
+            "stars": 166911,
             "topics": [
               "audio",
               "deep-learning",
@@ -531,7 +531,7 @@
         {
           "node_type": "item",
           "title": "transformers",
-          "description": null,
+          "description": "huggingface/transformers",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -540,11 +540,11 @@
             "id": 155220641,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:23:32Z",
-            "open_issues": 2358,
+            "last_commit": "2026-10-03T03:54:50Z",
+            "open_issues": 2360,
             "owner": "huggingface",
             "repo": "transformers",
-            "stars": 166903,
+            "stars": 166911,
             "topics": [
               "audio",
               "deep-learning",
@@ -572,7 +572,7 @@
         {
           "node_type": "item",
           "title": "lightly",
-          "description": null,
+          "description": "lightly-ai/lightly",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -603,7 +603,7 @@
         {
           "node_type": "item",
           "title": "lightly",
-          "description": null,
+          "description": "lightly-ai/lightly",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -640,7 +640,7 @@
         {
           "node_type": "item",
           "title": "spotlight",
-          "description": null,
+          "description": "Renumics/spotlight",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -675,7 +675,7 @@
         {
           "node_type": "item",
           "title": "spotlight",
-          "description": null,
+          "description": "Renumics/spotlight",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -710,7 +710,7 @@
         {
           "node_type": "item",
           "title": "fiftyone",
-          "description": null,
+          "description": "voxel51/fiftyone",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -719,11 +719,11 @@
             "id": 257913595,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:19:01Z",
-            "open_issues": 721,
+            "last_commit": "2026-10-03T03:46:34Z",
+            "open_issues": 724,
             "owner": "voxel51",
             "repo": "fiftyone",
-            "stars": 11139,
+            "stars": 11141,
             "topics": [
               "active-learning",
               "artificial-intelligence",
@@ -749,7 +749,7 @@
         {
           "node_type": "item",
           "title": "fiftyone",
-          "description": null,
+          "description": "voxel51/fiftyone",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -758,11 +758,11 @@
             "id": 257913595,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:19:01Z",
-            "open_issues": 721,
+            "last_commit": "2026-10-03T03:46:34Z",
+            "open_issues": 724,
             "owner": "voxel51",
             "repo": "fiftyone",
-            "stars": 11139,
+            "stars": 11141,
             "topics": [
               "active-learning",
               "artificial-intelligence",
@@ -788,7 +788,7 @@
         {
           "node_type": "item",
           "title": "refinery",
-          "description": null,
+          "description": "code-kern-ai/refinery",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -830,7 +830,7 @@
         {
           "node_type": "item",
           "title": "refinery",
-          "description": null,
+          "description": "code-kern-ai/refinery",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -872,7 +872,7 @@
         {
           "node_type": "item",
           "title": "argilla",
-          "description": null,
+          "description": "argilla-io/argilla",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -911,7 +911,7 @@
         {
           "node_type": "item",
           "title": "argilla",
-          "description": null,
+          "description": "argilla-io/argilla",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -950,7 +950,7 @@
         {
           "node_type": "item",
           "title": "xtreme1",
-          "description": null,
+          "description": "xtreme1-io/xtreme1",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -963,7 +963,7 @@
             "open_issues": 22,
             "owner": "xtreme1-io",
             "repo": "xtreme1",
-            "stars": 1341,
+            "stars": 1345,
             "topics": [
               "3d-annotation",
               "annotation",
@@ -987,7 +987,7 @@
         {
           "node_type": "item",
           "title": "xtreme1",
-          "description": null,
+          "description": "xtreme1-io/xtreme1",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1000,7 +1000,7 @@
             "open_issues": 22,
             "owner": "xtreme1-io",
             "repo": "xtreme1",
-            "stars": 1341,
+            "stars": 1345,
             "topics": [
               "3d-annotation",
               "annotation",
@@ -1024,7 +1024,7 @@
         {
           "node_type": "item",
           "title": "fg-data-profiling",
-          "description": null,
+          "description": "Data-Centric-AI-Community/fg-data-profiling",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1034,7 +1034,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-11T19:49:45Z",
-            "open_issues": 337,
+            "open_issues": 338,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
             "stars": 13718,
@@ -1066,7 +1066,7 @@
         {
           "node_type": "item",
           "title": "fg-data-profiling",
-          "description": null,
+          "description": "Data-Centric-AI-Community/fg-data-profiling",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1076,7 +1076,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-09-11T19:49:45Z",
-            "open_issues": 337,
+            "open_issues": 338,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
             "stars": 13718,
@@ -1114,7 +1114,7 @@
         {
           "node_type": "item",
           "title": "cleanlab",
-          "description": null,
+          "description": "cleanlab/cleanlab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1127,7 +1127,7 @@
             "open_issues": 127,
             "owner": "cleanlab",
             "repo": "cleanlab",
-            "stars": 11684,
+            "stars": 11685,
             "topics": [
               "active-learning",
               "annotation",
@@ -1156,7 +1156,7 @@
         {
           "node_type": "item",
           "title": "cleanlab",
-          "description": null,
+          "description": "cleanlab/cleanlab",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1169,7 +1169,7 @@
             "open_issues": 127,
             "owner": "cleanlab",
             "repo": "cleanlab",
-            "stars": 11684,
+            "stars": 11685,
             "topics": [
               "active-learning",
               "annotation",
@@ -1198,7 +1198,7 @@
         {
           "node_type": "item",
           "title": "PyOD",
-          "description": null,
+          "description": "yzhao062/pyod",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1211,7 +1211,7 @@
             "open_issues": 253,
             "owner": "yzhao062",
             "repo": "pyod",
-            "stars": 10025,
+            "stars": 10026,
             "topics": [
               "agentic-ai",
               "anomaly-detection",
@@ -1239,7 +1239,7 @@
         {
           "node_type": "item",
           "title": "pyod",
-          "description": null,
+          "description": "yzhao062/pyod",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1252,7 +1252,7 @@
             "open_issues": 253,
             "owner": "yzhao062",
             "repo": "pyod",
-            "stars": 10025,
+            "stars": 10026,
             "topics": [
               "agentic-ai",
               "anomaly-detection",
@@ -1280,7 +1280,7 @@
         {
           "node_type": "item",
           "title": "tods",
-          "description": null,
+          "description": "datamllab/tods",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1309,7 +1309,7 @@
         {
           "node_type": "item",
           "title": "tods",
-          "description": null,
+          "description": "datamllab/tods",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1338,7 +1338,7 @@
         {
           "node_type": "item",
           "title": "alibi-detect",
-          "description": null,
+          "description": "SeldonIO/alibi-detect",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1373,7 +1373,7 @@
         {
           "node_type": "item",
           "title": "alibi-detect",
-          "description": null,
+          "description": "SeldonIO/alibi-detect",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1414,7 +1414,7 @@
         {
           "node_type": "item",
           "title": "shap",
-          "description": null,
+          "description": "shap/shap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1443,7 +1443,7 @@
         {
           "node_type": "item",
           "title": "shap",
-          "description": null,
+          "description": "shap/shap",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1472,7 +1472,7 @@
         {
           "node_type": "item",
           "title": "alibi",
-          "description": null,
+          "description": "SeldonIO/alibi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1499,7 +1499,7 @@
         {
           "node_type": "item",
           "title": "alibi",
-          "description": null,
+          "description": "SeldonIO/alibi",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1526,7 +1526,7 @@
         {
           "node_type": "item",
           "title": "LIME",
-          "description": null,
+          "description": "marcotcr/lime",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1547,7 +1547,7 @@
         {
           "node_type": "item",
           "title": "lime",
-          "description": null,
+          "description": "marcotcr/lime",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1568,7 +1568,7 @@
         {
           "node_type": "item",
           "title": "captum",
-          "description": null,
+          "description": "meta-pytorch/captum",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1595,7 +1595,7 @@
         {
           "node_type": "item",
           "title": "captum",
-          "description": null,
+          "description": "meta-pytorch/captum",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1628,7 +1628,7 @@
         {
           "node_type": "item",
           "title": "modAL",
-          "description": null,
+          "description": "modAL-python/modAL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1659,7 +1659,7 @@
         {
           "node_type": "item",
           "title": "modAL",
-          "description": null,
+          "description": "modAL-python/modAL",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1690,7 +1690,7 @@
         {
           "node_type": "item",
           "title": "baal",
-          "description": null,
+          "description": "baal-org/baal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1719,7 +1719,7 @@
         {
           "node_type": "item",
           "title": "baal",
-          "description": null,
+          "description": "baal-org/baal",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1754,7 +1754,7 @@
         {
           "node_type": "item",
           "title": "Uncertainty Toolbox",
-          "description": null,
+          "description": "uncertainty-toolbox/uncertainty-toolbox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1793,7 +1793,7 @@
         {
           "node_type": "item",
           "title": "MAPIE",
-          "description": null,
+          "description": "scikit-learn-contrib/MAPIE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1823,7 +1823,7 @@
         {
           "node_type": "item",
           "title": "MAPIE",
-          "description": null,
+          "description": "scikit-learn-contrib/MAPIE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1853,7 +1853,7 @@
         {
           "node_type": "item",
           "title": "MAPIE",
-          "description": null,
+          "description": "scikit-learn-contrib/MAPIE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1889,7 +1889,7 @@
         {
           "node_type": "item",
           "title": "AIF360",
-          "description": null,
+          "description": "Trusted-AI/AIF360",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1931,7 +1931,7 @@
         {
           "node_type": "item",
           "title": "AIF360",
-          "description": null,
+          "description": "Trusted-AI/AIF360",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1973,7 +1973,7 @@
         {
           "node_type": "item",
           "title": "fairlearn",
-          "description": null,
+          "description": "fairlearn/fairlearn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2007,7 +2007,7 @@
         {
           "node_type": "item",
           "title": "fairlearn",
-          "description": null,
+          "description": "fairlearn/fairlearn",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2047,7 +2047,7 @@
         {
           "node_type": "item",
           "title": "phoenix",
-          "description": null,
+          "description": "Arize-ai/phoenix",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2056,11 +2056,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:38:36Z",
-            "open_issues": 1081,
+            "last_commit": "2026-10-03T03:05:44Z",
+            "open_issues": 1092,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11683,
+            "stars": 11687,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -2085,7 +2085,7 @@
         {
           "node_type": "item",
           "title": "phoenix",
-          "description": null,
+          "description": "Arize-ai/phoenix",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2094,11 +2094,11 @@
             "id": 564072810,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T18:38:36Z",
-            "open_issues": 1081,
+            "last_commit": "2026-10-03T03:05:44Z",
+            "open_issues": 1092,
             "owner": "Arize-ai",
             "repo": "phoenix",
-            "stars": 11683,
+            "stars": 11687,
             "topics": [
               "agents",
               "ai-monitoring",
@@ -2123,7 +2123,7 @@
         {
           "node_type": "item",
           "title": "deepchecks",
-          "description": null,
+          "description": "deepchecks/deepchecks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2159,7 +2159,7 @@
         {
           "node_type": "item",
           "title": "deepchecks",
-          "description": null,
+          "description": "deepchecks/deepchecks",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2195,7 +2195,7 @@
         {
           "node_type": "item",
           "title": "evidently",
-          "description": null,
+          "description": "evidentlyai/evidently",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2208,7 +2208,7 @@
             "open_issues": 323,
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7959,
+            "stars": 7962,
             "topics": [
               "data-drift",
               "data-quality",
@@ -2231,7 +2231,7 @@
         {
           "node_type": "item",
           "title": "evidently",
-          "description": null,
+          "description": "evidentlyai/evidently",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2244,7 +2244,7 @@
             "open_issues": 323,
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7959,
+            "stars": 7962,
             "topics": [
               "data-drift",
               "data-quality",
@@ -2267,7 +2267,7 @@
         {
           "node_type": "item",
           "title": "langfuse",
-          "description": null,
+          "description": "langfuse/langfuse",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2276,11 +2276,11 @@
             "id": 642497346,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T17:10:52Z",
-            "open_issues": 1003,
+            "last_commit": "2026-10-02T21:21:34Z",
+            "open_issues": 1001,
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 35314,
+            "stars": 35327,
             "topics": [
               "analytics",
               "autogen",
@@ -2308,7 +2308,7 @@
         {
           "node_type": "item",
           "title": "langfuse",
-          "description": null,
+          "description": "langfuse/langfuse",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2317,11 +2317,11 @@
             "id": 642497346,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T17:10:52Z",
-            "open_issues": 1003,
+            "last_commit": "2026-10-02T21:21:34Z",
+            "open_issues": 1001,
             "owner": "langfuse",
             "repo": "langfuse",
-            "stars": 35314,
+            "stars": 35327,
             "topics": [
               "analytics",
               "autogen",
@@ -2349,7 +2349,7 @@
         {
           "node_type": "item",
           "title": "langkit",
-          "description": null,
+          "description": "whylabs/langkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2378,7 +2378,7 @@
         {
           "node_type": "item",
           "title": "langkit",
-          "description": null,
+          "description": "whylabs/langkit",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2413,7 +2413,7 @@
         {
           "node_type": "item",
           "title": "albumentations",
-          "description": null,
+          "description": "albumentations-team/albumentations",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2447,7 +2447,7 @@
         {
           "node_type": "item",
           "title": "albumentations",
-          "description": null,
+          "description": "albumentations-team/albumentations",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2481,7 +2481,7 @@
         {
           "node_type": "item",
           "title": "gretel-synthetics",
-          "description": null,
+          "description": "gretelai/gretel-synthetics",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2508,7 +2508,7 @@
         {
           "node_type": "item",
           "title": "gretel-synthetics",
-          "description": null,
+          "description": "gretelai/gretel-synthetics",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2535,7 +2535,7 @@
         {
           "node_type": "item",
           "title": "SDV",
-          "description": null,
+          "description": "sdv-dev/SDV",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2572,7 +2572,7 @@
         {
           "node_type": "item",
           "title": "SDV",
-          "description": null,
+          "description": "sdv-dev/SDV",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2609,7 +2609,7 @@
         {
           "node_type": "item",
           "title": "fg-data-synthetic",
-          "description": null,
+          "description": "Data-Centric-AI-Community/fg-data-synthetic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2646,7 +2646,7 @@
         {
           "node_type": "item",
           "title": "fg-data-synthetic",
-          "description": null,
+          "description": "Data-Centric-AI-Community/fg-data-synthetic",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2689,7 +2689,7 @@
         {
           "node_type": "item",
           "title": "cleverhans",
-          "description": null,
+          "description": "cleverhans-lab/cleverhans",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2714,7 +2714,7 @@
         {
           "node_type": "item",
           "title": "cleverhans",
-          "description": null,
+          "description": "cleverhans-lab/cleverhans",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2739,7 +2739,7 @@
         {
           "node_type": "item",
           "title": "adversarial-robustness-toolbox",
-          "description": null,
+          "description": "Trusted-AI/adversarial-robustness-toolbox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2748,7 +2748,7 @@
             "id": 125381318,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T07:54:01Z",
+            "last_commit": "2026-10-02T21:18:18Z",
             "open_issues": 24,
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
@@ -2778,7 +2778,7 @@
         {
           "node_type": "item",
           "title": "adversarial-robustness-toolbox",
-          "description": null,
+          "description": "Trusted-AI/adversarial-robustness-toolbox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2787,7 +2787,7 @@
             "id": 125381318,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T07:54:01Z",
+            "last_commit": "2026-10-02T21:18:18Z",
             "open_issues": 24,
             "owner": "Trusted-AI",
             "repo": "adversarial-robustness-toolbox",
@@ -2817,7 +2817,7 @@
         {
           "node_type": "item",
           "title": "foolbox",
-          "description": null,
+          "description": "bethgelab/foolbox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2847,7 +2847,7 @@
         {
           "node_type": "item",
           "title": "foolbox",
-          "description": null,
+          "description": "bethgelab/foolbox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2877,7 +2877,7 @@
         {
           "node_type": "item",
           "title": "giskard-oss",
-          "description": null,
+          "description": "Giskard-AI/giskard-oss",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2890,7 +2890,7 @@
             "open_issues": 73,
             "owner": "Giskard-AI",
             "repo": "giskard-oss",
-            "stars": 5851,
+            "stars": 5854,
             "topics": [
               "agent-evaluation",
               "ai-red-team",
@@ -2916,7 +2916,7 @@
         {
           "node_type": "item",
           "title": "giskard-oss",
-          "description": null,
+          "description": "Giskard-AI/giskard-oss",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2929,7 +2929,7 @@
             "open_issues": 73,
             "owner": "Giskard-AI",
             "repo": "giskard-oss",
-            "stars": 5851,
+            "stars": 5854,
             "topics": [
               "agent-evaluation",
               "ai-red-team",
@@ -2955,7 +2955,7 @@
         {
           "node_type": "item",
           "title": "llm-guard",
-          "description": null,
+          "description": "protectai/llm-guard",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -2987,7 +2987,7 @@
         {
           "node_type": "item",
           "title": "llm-guard",
-          "description": null,
+          "description": "protectai/llm-guard",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3019,7 +3019,7 @@
         {
           "node_type": "item",
           "title": "guardrails",
-          "description": null,
+          "description": "guardrails-ai/guardrails",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3032,7 +3032,7 @@
             "open_issues": 76,
             "owner": "guardrails-ai",
             "repo": "guardrails",
-            "stars": 7474,
+            "stars": 7477,
             "topics": [
               "ai",
               "foundation-model",
@@ -3046,7 +3046,7 @@
         {
           "node_type": "item",
           "title": "guardrails",
-          "description": null,
+          "description": "guardrails-ai/guardrails",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3059,7 +3059,7 @@
             "open_issues": 76,
             "owner": "guardrails-ai",
             "repo": "guardrails",
-            "stars": 7474,
+            "stars": 7477,
             "topics": [
               "ai",
               "foundation-model",
@@ -3088,11 +3088,11 @@
             "id": 144863525,
             "language": null,
             "license": "MIT",
-            "last_commit": "2026-10-02T10:16:45Z",
-            "open_issues": 38,
+            "last_commit": "2026-10-03T00:57:02Z",
+            "open_issues": 37,
             "owner": "EthicalML",
             "repo": "awesome-production-machine-learning",
-            "stars": 20966,
+            "stars": 20967,
             "topics": [
               "awesome",
               "awesome-list",
@@ -3217,7 +3217,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T18:44:39.846Z",
+    "last_updated": "2026-10-03T04:58:44.890Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of open source tooling for data-centric AI on unstructured data. ",
